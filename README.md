@@ -10,9 +10,11 @@ WIP
 
 ## Team
 
-This theme is maintained by the following person(s)
-
-| [![Xetheon](https://github.com/xetheon.png?size=100)](https://github.com/xetheon) |
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/xetheon/minecraft/graphs/contributors).
+ 
+| [![Xetheon](https://github.com/xetheon.png?size=100)](https://github.com/xetheon) | 
+| --------------------------------------------------------------------------------- | 
+| [Xetheon](https://github.com/xetheon)                                             |
 
 ## Community
 
