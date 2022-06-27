@@ -1,17 +1,20 @@
-### [Foobar](https://foobar.com)
+### [Minecraft](https://minecraft.net)
 
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    git clone https://github.com/dracula/foobar.git
+    git clone https://github.com/Xetheon/minecraft
 
-#### Install manually
+#### Download manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+Go to [Releases](https://github.com/Xetheon/minecraft/releases) and get it there or download it from [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-ui)
 
-#### Activating theme
+#### Installing pack
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Open up Minecraft
+2. Go to Options > Resource Packs > Open Pack Folder
+3. Place the .zip of your desired release into the resourcepacks folder
+4. Enable within Minecraft and enjoy! (Note: If you use the colored shulkers addon, make sure it's above the base Dracula pack.)
+
+If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
