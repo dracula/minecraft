@@ -10,11 +10,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    git clone https://github.com/Xetheon/minecraft
+    git clone https://github.com/dracula/minecraft
 
 #### Download manually
 
-Go to [Releases](https://github.com/Xetheon/minecraft/releases) and get it there or download it from [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-ui)
+Go to [Releases](https://github.com/dracula/minecraft/releases) and get it there or download it from [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-ui)
 
 #### Installing pack
 
@@ -28,7 +28,7 @@ If you have any troubles installing, check out the Minecraft Wiki page on [how t
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/xetheon/minecraft/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/minecraft/graphs/contributors).
  
 | [![Xetheon](https://github.com/xetheon.png?size=100)](https://github.com/xetheon) | 
 | --------------------------------------------------------------------------------- | 
