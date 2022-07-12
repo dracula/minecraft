@@ -2,6 +2,10 @@
 
 > A dark theme for [Minecraft](https://minecraft.net).
 
+## V2 Experimental Notice
+
+This branch is highly experimental and contains missing and unfinished textures. It's only here for testing purposes, so leaving any feedback is appreciated!
+
 ![Screenshot](./screenshot.png)
 
 ## Install
