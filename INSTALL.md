@@ -8,7 +8,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Download manually
 
-Go to [Releases](https://github.com/Xetheon/minecraft/releases) and get it there or download it from [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-ui)
+Go to [Releases](https://github.com/dracula/minecraft/releases) and get it there or download it from [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-ui)
 
 #### Installing pack
 
