@@ -1,0 +1,4 @@
+{
+    "condition": { "not": "dracula:hudStyle.disabled" }
+}
+

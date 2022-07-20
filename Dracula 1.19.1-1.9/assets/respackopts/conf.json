@@ -1,0 +1,8 @@
+{
+    id: "dracula",
+    version: 8,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        hudIcons: true
+    }
+}
