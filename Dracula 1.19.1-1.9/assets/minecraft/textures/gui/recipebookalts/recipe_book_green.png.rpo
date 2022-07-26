@@ -1,0 +1,6 @@
+{
+    "condition": "dracula:recipeBookStyle.green",
+    "fallback": "assets/minecraft/textures/gui/recipebookalts/recipe_book_hybrid.png"
+}
+
+

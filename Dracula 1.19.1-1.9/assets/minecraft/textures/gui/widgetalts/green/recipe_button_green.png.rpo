@@ -1,0 +1,6 @@
+{
+    "condition": "dracula:widgetStyle.green",
+    "fallback": "assets/minecraft/textures/gui/widgetalts/hybrid/recipe_button_hybrid.png"
+}
+
+

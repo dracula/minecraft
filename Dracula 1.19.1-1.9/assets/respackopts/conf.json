@@ -1,8 +1,51 @@
 {
-    id: "dracula",
-    version: 8,
-    capabilities: ["FileFilter", "DirFilter"],
-    conf: {
-        hudIcons: true
-    }
+  "id": "dracula",
+  "version": 7,
+  "capabilities": ["FileFilter", "DirFilter"],
+  "conf": {
+    "mainMenu": {
+        "panorama": true,
+        "title": true,
+        "edition": true
+    },
+        "hudStyle": [
+        "default",
+        "flat",
+        "hollow",
+        "disabled"
+        ],
+        "inventoryStyle": [
+        "default",
+        "hybrid",
+        "disabled"
+        ],
+        "achievementStyle": [
+        "default",
+        "hybrid",
+        "disabled"
+        ],
+        "widgetStyle": [
+        "default",
+        "hybrid",
+        "red",
+        "yellow",
+        "green",
+        "blue",
+        "white",
+        "disabled"
+        ],
+        "recipeBookStyle": [
+        "default",
+        "hybrid",
+        "red",
+        "yellow",
+        "green",
+        "blue",
+        "white"
+        ],
+        "fontStyle": [
+        "disabled",
+        "x32Hack"
+        ]
+  }
 }

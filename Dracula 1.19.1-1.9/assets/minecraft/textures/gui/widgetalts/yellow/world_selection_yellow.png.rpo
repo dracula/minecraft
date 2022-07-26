@@ -1,0 +1,6 @@
+{
+    "condition": "dracula:widgetStyle.white",
+    "fallback": "assets/minecraft/textures/gui/widgetalts/disabled/world_selection_disabled.png"
+}
+
+

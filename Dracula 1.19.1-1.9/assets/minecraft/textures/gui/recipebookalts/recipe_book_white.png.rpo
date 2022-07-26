@@ -1,0 +1,5 @@
+{
+    "condition": "dracula:recipeBookStyle.white",
+    "fallback": "assets/minecraft/textures/gui/recipebookalts/recipe_book_yellow.png"
+}
+

@@ -1,0 +1,6 @@
+{
+    "condition": "dracula:widgetStyle.hybrid",
+    "fallback": "assets/minecraft/textures/gui/widgetalts/red/server_selection_red.png"
+}
+
+

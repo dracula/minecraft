@@ -1,0 +1,6 @@
+{
+    "condition": "dracula:widgetStyle.red",
+    "fallback": "assets/minecraft/textures/gui/widgetalts/white/resource_packs_white.png"
+}
+
+
