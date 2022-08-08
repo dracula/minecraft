@@ -1,4 +1,0 @@
-{
-    "condition": "dracula:inventoryStyle.default",
-    "fallback": "assets/minecraft/textures/gui/hybrid/container/generic_54.png"
-}
