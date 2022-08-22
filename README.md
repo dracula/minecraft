@@ -24,9 +24,9 @@ This will also keep the pack up do date automatically. Alternatively, you can do
 
 Warning: This version of the theme is not fully released yet. These links probably won't work.
 
-[Github Releases](https://github.com/dracula/minecraft/releases)
-[Modrinth](https://modrinth.com/resourcepack/dracula-theme-hybrid)
-[CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-theme-hybrid)
+- [Github Releases](https://github.com/dracula/minecraft/releases)
+- [Modrinth](https://modrinth.com/resourcepack/dracula-theme-hybrid)
+- [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-theme-hybrid)
 
 ##### If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
 
