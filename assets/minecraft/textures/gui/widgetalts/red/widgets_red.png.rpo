@@ -1,6 +1,0 @@
-{
-    "condition": "dracula:widgetStyle.red",
-    "fallback": "assets/minecraft/textures/gui/widgetalts/white/widgets_white.png"
-}
-
-

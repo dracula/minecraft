@@ -1,6 +1,0 @@
-{
-    "condition": "dracula:widgetStyle.green",
-    "fallback": "assets/minecraft/textures/gui/widgetalts/hybrid/resource_packs_hybrid.png"
-}
-
-

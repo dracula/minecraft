@@ -1,4 +1,0 @@
- {
-    "condition": { "not": "dracula:recipeBookStyle.disabled" }
-}
-

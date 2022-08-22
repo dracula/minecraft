@@ -1,6 +1,5 @@
-{
-    "condition": "dracula:inventoryStyle.default",
-    "fallback": "assets/minecraft/textures/gui/hybrid/container"
+ {
+    "condition": { "not": "dracula:inventoryStyle.disabled" }
 }
 
 

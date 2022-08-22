@@ -1,5 +1,0 @@
-{
-    "condition": { "not": "dracula:widgetStyle.disabled" }
-}
-
-
