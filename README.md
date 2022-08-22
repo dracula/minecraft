@@ -2,40 +2,44 @@
 
 > A dark theme for [Minecraft](https://minecraft.net).
 
-## V2 Experimental Notice
-
-This branch is highly experimental and contains missing and unfinished textures. It's only here for testing purposes, so leaving any feedback is appreciated!
-
 ![Screenshot](./screenshot.png)
+
+## Notice
+
+Version 2 is not yet stable, so expect problems when using. If you have any suggestions, feel free to open an issue on it.
 
 ## Install
 
-#### Install using Git
+#### Find your resourcepacks folder
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+The quickest and easiest way to do this is from in-game.
 
-    git clone https://github.com/dracula/minecraft
+1. Open up your desired version of Minecraft.
+2. Go into "Options" and then "Resource Packs"
+3. Click "Open Pack Folder"
 
-#### Download manually
+#### Download the pack
 
-Go to [Releases](https://github.com/dracula/minecraft/releases) and get it there or download it from [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-ui)
+The easiest way to do this is to clone the repo, if you have Git installed. Open a terminal or commandline in your resourcepacks folder and clone:
 
-#### Installing pack
+    git clone https://github.com/dracula/minecraft -b v2-x32 "Dracula Theme - x32"
 
-1. Open up Minecraft
-2. Go to Options > Resource Packs > Open Pack Folder
-3. Place the .zip of your desired release into the resourcepacks folder
-4. Enable within Minecraft and enjoy! (Note: If you use the colored shulkers addon, make sure it's above the base Dracula pack.)
+This will also keep the pack up do date automatically. Alternatively, you can download the pack manually by going to any of its release pages.
 
-If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
+Warning: This version of the theme is not fully released yet. These links probably won't work.
 
+[Github Releases](https://github.com/dracula/minecraft/releases)
+[Modrinth](https://modrinth.com/resourcepack/dracula-theme-x32)
+[CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-theme-x32)
+
+##### If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/minecraft/graphs/contributors).
- 
-| [![Xetheon](https://github.com/xetheon.png?size=100)](https://github.com/xetheon) | 
-| --------------------------------------------------------------------------------- | 
+
+| [![Xetheon](https://github.com/xetheon.png?size=100)](https://github.com/xetheon) |
+| --------------------------------------------------------------------------------- |
 | [Xetheon](https://github.com/xetheon)                                             |
 
 ## Community
