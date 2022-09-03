@@ -6,7 +6,7 @@
 
 ## Notice
 
-Version 2 is not yet stable, so expect problems when using. If you have any suggestions, feel free to open an issue on it.
+This theme is still undergoing a major overhaul and isn't finished yet. There will be inconsistencies and wip textures, especially if you're using mods.
 
 ## Install
 
@@ -14,23 +14,27 @@ Version 2 is not yet stable, so expect problems when using. If you have any sugg
 
 The quickest and easiest way to do this is from in-game.
 
-1. Open up your desired version of Minecraft.
-2. Go into "Options" and then "Resource Packs"
-3. Click "Open Pack Folder"
+ 1. Open up your desired version of Minecraft.
+ 2. Go into "Options" and then "Resource Packs"
+ 3. Click "Open Pack Folder"
+ 
+The directory that is then opened in your file manager is where resourcepack folders and .zip files will go.
 
-#### Download the pack
+#### Git Download
 
-The easiest way to do this is to clone the repo, if you have Git installed. Open a terminal or commandline in your resourcepacks folder and clone:
+If you have Git on your system, you can install the pack and get automatic updates by cloning the repo. Open a terminal or commandline in your resourcepacks folder and copy:
 
     git clone https://github.com/dracula/minecraft -b v2-x16 "Dracula Theme - x16"
+    
+Note: You can name the pack whatever you want by changing the text in quotation marks at the end!
 
-This will also keep the pack up do date automatically. Alternatively, you can download the pack manually by going to any of its release pages.
+#### Manual Download
 
-Warning: This version of the theme is not fully released yet. These links probably won't work.
+Alternatively, you can download the pack by going to any of its release pages:
 
-[Github Releases](https://github.com/dracula/minecraft/releases)
-[Modrinth](https://modrinth.com/resourcepack/dracula-theme-x16)
-[CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-theme-x16)
+- [Github Releases](https://github.com/dracula/minecraft/releases)
+- [Modrinth](https://modrinth.com/resourcepack/dracula-theme-x16)
+- [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-theme-x16)
 
 ##### If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
 
