@@ -1,4 +1,4 @@
-## Install
+### [Minecraft](https://minecraft.net)
 
 #### Install using Git
 
