@@ -1,6 +1,0 @@
-{
-    "condition": "dracula:widgetsStyle.blue",
-    "fallback": "assets/minecraft/textures/gui/widgetalts/green/accessibility_green.png"
-}
-
-

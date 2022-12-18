@@ -1,6 +1,0 @@
-{
-    "condition": "dracula:widgetStyle.blue",
-    "fallback": "assets/minecraft/textures/gui/widgetalts/green/world_selection_green.png"
-}
-
-

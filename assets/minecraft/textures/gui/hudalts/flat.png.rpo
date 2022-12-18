@@ -1,4 +1,0 @@
-{
-    "condition": "dracula:hudStyle.flat",
-    "fallback": "assets/minecraft/textures/gui/hudalts/hollow.png"
-}

@@ -1,6 +1,0 @@
-{
-    "condition": "dracula:widgetStyle.default",
-    "fallback": "assets/minecraft/textures/gui/widgetalts/blue/recipe_button_blue.png"
-}
-
-
