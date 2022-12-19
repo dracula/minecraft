@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   sodipodi:docname="empty_armor_slot_chestplate.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="32.61017"
+     inkscape:cy="25.898305"
+     inkscape:window-width="5062"
+     inkscape:window-height="1440"
+     inkscape:window-x="58"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid302"
+       snapvisiblegridlinesonly="false" />
+  </sodipodi:namedview>
+  <path
+     id="path367"
+     style="fill:#17181c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 13 8 L 4 17 L 4 38 L 14 38 L 14 49 L 23 58 L 41 58 L 50 49 L 50 38 L 60 38 L 60 17 L 51 8 L 13 8 z M 15 12 L 49 12 L 56 19 L 56 34 L 50 34 L 50 27 L 45 22 L 42 25 L 46 29 L 46 47 L 39 54 L 25 54 L 18 47 L 18 29 L 22 25 L 19 22 L 14 27 L 14 34 L 8 34 L 8 19 L 15 12 z "
+     inkscape:label="Icon" />
+</svg>

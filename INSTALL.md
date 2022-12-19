@@ -1,20 +1,23 @@
-## Install
+### [Minecraft](https://minecraft.net)
 
-#### Install using Git
+#### Find your resourcepacks folder
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+To install this theme you need to first find your resourcepack folder. The quickest and easiest way to do this is from in-game.
 
-    git clone https://github.com/Xetheon/minecraft
+1. Open up your desired version of Minecraft.
+2. Go into "Options" and then "Resource Packs"
+3. Click "Open Pack Folder"
 
-#### Download manually
+#### Download the pack
 
-Go to [Releases](https://github.com/dracula/minecraft/releases) and get it there or download it from [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-ui)
+If you're familiar with Git, this is the best way as will also keep the pack up to date automatically. Open a terminal or commandline in your resourcepacks folder and clone:
 
-#### Installing pack
+    git clone https://github.com/dracula/minecraft -b v2-x32 "Dracula Theme"
 
-1. Open up Minecraft
-2. Go to Options > Resource Packs > Open Pack Folder
-3. Place the .zip of your desired release into the resourcepacks folder
-4. Enable within Minecraft and enjoy! (Note: If you use the colored shulkers addon, make sure it's above the base Dracula pack.)
+Alternatively, you can download the pack manually by going to any of its release pages:
 
-If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
+[Github Releases](https://github.com/dracula/minecraft/releases)
+[Modrinth](https://modrinth.com/resourcepack/dracula-theme)
+[CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-theme)
+
+##### If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
