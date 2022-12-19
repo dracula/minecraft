@@ -1,6 +1,7 @@
-§aThere are 65 other silly texts like this one!
-§aDracula UI v1.1!
+§aThere are 67 other silly texts like this one!
+§aDracula Theme 2.0 Beta 2!
 §aCheck out other Dracula themes!
+§a...There was a guy named Vlad
 §aKeep your stakes sharp!
 §aAvoiding the sun!
 §aVampiric!
@@ -13,12 +14,12 @@
 §aFresh out of ideas!
 §aGet healthy sleep!
 §aYou must be the Belmont...
-§aCheck out SmallAnt!
 §aMemes ahead!
 §aBe safe online!
 §aThe internet is a series of tubes!
 §aDragons are cool!
-§aWatch out for Plantera!
+§aCoin-Shooting Robots!
+§aWatch out for Plantera Bulbs!
 §aMr.Stark, I don't feel so good...
 §aBut first, coffee!
 §aYou saw nothing!
@@ -27,13 +28,15 @@
 §aMy death was greatly exaggerateed!
 §aBoomer Humor!
 §aCheesed!
+§aRock and Stone!
 §aStay hydrated!
 §aClick here for a free MinePhone X!
 §aNetherite Hoes!
 §aGamer §cR§aG§9B!
 §aWeird TikToks included!
+§aTharr be gold in them hills!
 §aComplimentary chicken nuggets!
-§aTry the Fabulously Optimized modpack!
+§aNeed frames? Try the Fabulously Optimized modpack!
 §aFunny number!
 §aYou can only pick one, choose wisely!
 §Omae wa mou shindeiru!
@@ -46,7 +49,7 @@
 §aFor legal reasons, that's a joke!
 §aThe maple kind, yeah?
 §aThe cake is a lie!
-§aDreamy RNG!
+§aDream RNG!
 §aTerrible RNG!
 §aLil Taters included!
 §aRunning at a smooth 10 FPS!
