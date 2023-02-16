@@ -4,11 +4,17 @@
 
 ![Screenshot](./screenshot.png)
 
+## About
+
+Looking for a dark GUI with vanilla textures, but want something more colorful and stylized than existing ones? This is the pack for you!
+
+**Dracula Theme - Hybrid** is a full makeover of the vanilla GUI using colores from the [Dracula Color Palette](https://draculatheme.com/contribute) with the goal of not only being easy on the eyes, but more interesting to use, too! Featuring custom UI sounds, a unique title screen and even mod support! (wip)
+
 ## Install
 
 #### Find your resourcepacks folder
 
-The quickest and easiest way to do this is from in-game.
+To install this theme you need to first find your resourcepack folder. The quickest and easiest way to do this is from in-game.
 
 1. Open up your desired version of Minecraft.
 2. Go into "Options" and then "Resource Packs"
@@ -16,17 +22,13 @@ The quickest and easiest way to do this is from in-game.
 
 #### Download the pack
 
-The easiest way to do this is to clone the repo, if you have Git installed. Open a terminal or commandline in your resourcepacks folder and clone:
+After opening your resourcepacks folder, simply put your desired pack in .zip format there. You can download the pack for nearly all versions of minecraft at the links below:
 
-    git clone https://github.com/dracula/minecraft -b hybrid "Dracula Theme - Hybrid"
+| [![Modrinth](./images/modrinth.png)](https://modrinth.com/resourcepack/dracula-theme-hybrid) | [![Curseforge](./images/curseforge.png)](https://www.curseforge.com/minecraft/texture-packs/dracula-theme-hybrid) | [![Github](./images/github.png)](https://github.com/dracula/minecraft/releases) |
+| --- | --- | --- |
+| [Modrinth](https://modrinth.com/resourcepack/dracula-theme) | [Curseforge](https://www.curseforge.com/minecraft/texture-packs/dracula-theme) | [Github](https://github.com/dracula/minecraft/releases) |
 
-This will also keep the pack up do date automatically. Alternatively, you can download the pack manually by going to any of its release pages.
-
-Warning: This version of the theme is not fully released yet. These links probably won't work.
-
-- [Github Releases](https://github.com/dracula/minecraft/releases)
-- [Modrinth](https://modrinth.com/resourcepack/dracula-theme-hybrid)
-- [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-theme-hybrid)
+*Note: CurseForge will typically get updates slower than other sites.*
 
 ##### If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
 
