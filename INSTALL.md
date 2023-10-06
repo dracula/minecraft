@@ -12,11 +12,7 @@ To install this theme you need to first find your resourcepack folder. The quick
 
 #### Download the pack
 
-If you're familiar with Git, you can easily set up the pack and have it updated automatically that way. Open a terminal or commandline in your resourcepacks folder and clone the repo. Make sure to replace `gui-scale-4` with your preferred GUI size! (Up to 6)
-
-    git clone https://github.com/dracula/minecraft -b gui-scale-4 "Dracula Theme"
-
-Alternatively, you can also download the pack by going to any of its release pages:
+You can find official releases in all of these places:
 
 | [![Modrinth](./images/modrinth.png)](https://modrinth.com/resourcepack/dracula-theme) | [![Curseforge](./images/curseforge.png)](https://www.curseforge.com/minecraft/texture-packs/dracula-theme) | [![Github](./images/github.png)](https://github.com/dracula/minecraft/releases) |
 | --- | --- | --- |

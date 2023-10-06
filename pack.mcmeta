@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 9,
-    "description": "§fA clean, dark UI overhaul for Minecraft. §dx32 res version."
+    "pack_format": *,
+    "description": "§fA clean, dark UI overhaul for Minecraft. For GUI Scale **"
   }
 }
