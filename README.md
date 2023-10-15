@@ -4,13 +4,9 @@
 
 ![Screenshot](./screenshot.png)
 
-## Notice
-
-Version 2 is not yet stable, so expect problems when using. If you have any suggestions, feel free to open an issue on it.
-
 ## Install
 
-Note: This version of the theme comes in multiple files for different GUI scales. Pick the one you play on the most for the best experience!
+**GUI scale is important!** This pack comes in multiple variations for different GUI sizes, so pick the one you play with for the best experience!
 
 #### Find your resourcepacks folder
 
@@ -34,9 +30,9 @@ You can find official releases in all of these places:
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/minecraft/graphs/contributors).
 
-| [![Xetheon](https://github.com/xetheon.png?size=100)](https://github.com/xetheon) |
+| [![Zentheon](https://github.com/zentheon.png?size=100)](https://github.com/zentheon) |
 | --------------------------------------------------------------------------------- |
-| [Xetheon](https://github.com/xetheon)                                             |
+| [Zentheon](https://github.com/zentheon)                                             |
 
 ## Community
 
