@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="-12.128679"
-     inkscape:cy="40.700587"
+     inkscape:zoom="14.75"
+     inkscape:cx="-1.7288136"
+     inkscape:cy="36.169492"
      inkscape:window-width="3470"
      inkscape:window-height="1440"
      inkscape:window-x="0"
@@ -48,5 +48,5 @@
        empspacing="4" /></sodipodi:namedview><path
      id="path25276"
      style="display:inline;fill:#f8f8f2;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 10,4 6,8 v 40 l 4,4 h 40 l 4,-4 V 8 L 50,4 Z m 6,2 h 16 v 6 H 22 v 4 H 12 V 8 h 4 z m 10,10 h 20 v 6 h 4 V 42 H 36 V 30 H 26 Z m -16,4 h 6 v 4 h 4 v 8 h -4 v 8 h -6 z m 12,16 h 8 v 6 h 2 v 8 H 18 v -8 h 4 z"
+     d="M 8,4 4,8 v 40 l 4,4 h 40 l 4,-4 V 8 L 48,4 Z m 6,2 h 16 v 6 H 20 v 4 H 10 V 8 h 4 z m 10,10 h 20 v 6 h 4 V 42 H 34 V 30 H 24 Z M 8,20 h 6 v 4 h 4 v 8 h -4 v 8 H 8 Z m 12,16 h 8 v 6 h 2 v 8 H 16 v -8 h 4 z"
      inkscape:label="Globe" /></svg>
