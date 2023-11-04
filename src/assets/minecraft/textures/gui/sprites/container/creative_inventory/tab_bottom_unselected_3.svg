@@ -7,7 +7,7 @@
    width="104"
    height="128"
    viewBox="0 0 104 128"
-   sodipodi:docname="tab_bottom_unselected_1.svg"
+   sodipodi:docname="tab_bottom_unselected_3.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    inkscape:export-filename="scroller.png"
    inkscape:export-xdpi="96"
@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     inkscape:zoom="9.71875"
-     inkscape:cx="57.980708"
-     inkscape:cy="71.871383"
+     inkscape:zoom="13.744388"
+     inkscape:cx="44.563643"
+     inkscape:cy="31.321875"
      inkscape:window-width="3490"
      inkscape:window-height="1440"
      inkscape:window-x="0"
@@ -49,7 +49,7 @@
      id="g57"
      inkscape:label="Tab Bottom Unselected"
      style="display:inline"
-     transform="rotate(90,172,-680)"><path
+     transform="rotate(90,170,-678)"><path
        style="color:#000000;fill:#18181c;-inkscape-stroke:none"
        d="m 852,-519 h 77 l 24,-24 v -34 l -24,-24 h -77"
        id="path56" /><path
