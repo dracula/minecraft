@@ -117,7 +117,7 @@ for SCALE in 2 3 4 5 6 7 8; do
             sed -i -e "s/: 0/: 1/g" ./temp/$SCALE/pack.mcmeta
             \cp -r ./temp/$SCALE/1.6.1-1.7.10/minecraft ./temp/$SCALE/assets
         }
-        7z a "./generated/$FRMT/Dracula $PACKVER GUI Scale $SCALE MC ${MCVER[$FRMT]}.zip" ./temp/$SCALE/assets ./temp/$SCALE/LICENSE ./temp/$SCALE/pack.mcmeta ./temp/$SCALE/pack.png
+        7z a "./generated/$FRMT/Dracula $PACKVER GUI Scale $SCALE MC ${MCVER[$FRMT]}.zip" ./temp/$SCALE/assets ./temp/$SCALE/LICENSE.md ./temp/$SCALE/pack.mcmeta ./temp/$SCALE/pack.png
         sed -i -e "s/: $FRMT/: -FRMT/g" ./temp/$SCALE/pack.mcmeta
     done
 done
