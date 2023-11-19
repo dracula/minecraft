@@ -22,7 +22,7 @@ DPI=(0 24 48 72 96 120 144 168 192)
 }
 
 # Exit if running in wrong directory
-[ -e "./dev/genscript_enable" ] || {
+[ -e "./dev/script_enabler" ] || {
 
     echo
     echo ":: Please run inside source folder."
@@ -44,6 +44,11 @@ hash 7z 2>/dev/null || {
 hash sed 2>/dev/null || {
 
     echo "sed is not installed."
+    EXIT=1
+}
+hash mogrify 2>/dev/null || {
+
+    echo "imagemagick is not installed."
     EXIT=1
 }
 hash optipng 2>/dev/null || {
@@ -94,9 +99,10 @@ for SVG in ./temp/**/*.svg; do
 done
 
 # Compress PNGs
-echo "Compressing images..."
+echo "Optimizing images..."
 for PNG in ./temp/**/*.png; do
 
+    mogrify -fuzz 7% -channel RGBA -fill "#ffffff" -transparent "#88888800" $PNG
     optipng $PNG
 done
 
