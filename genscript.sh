@@ -110,12 +110,13 @@ for SCALE in 2 3 4 5 6 7 8; do
         [ $SCALE = 2 ] && mkdir ./generated/$FRMT
         sed -i -e "s/-FRMT/$FRMT/g" ./temp/$SCALE/pack.mcmeta
         sed -i -e "s/-SCALE/$SCALE/g" ./temp/$SCALE/pack.mcmeta
-        [ "$FRMT" = 13 ] && \cp -r ./temp/$SCALE/1.19.3-1.19.4/minecraft ./temp/$SCALE/assets
-        [ "$FRMT" = 9 ] && \cp -r ./temp/$SCALE/1.9-1.19.2/minecraft ./temp/$SCALE/assets
-        [ "$FRMT" = 1 ] && \cp -r ./temp/$SCALE/1.8-1.8.9/minecraft ./temp/$SCALE/assets
+        [ "$FRMT" = 15 ] && \cp -r ./temp/$SCALE/1.20-1.20.1 ./temp/$SCALE/assets
+        [ "$FRMT" = 13 ] && \cp -r ./temp/$SCALE/1.19.3-1.19.4 ./temp/$SCALE/assets
+        [ "$FRMT" = 9 ] && \cp -r ./temp/$SCALE/1.9-1.19.2 ./temp/$SCALE/assets
+        [ "$FRMT" = 1 ] && \cp -r ./temp/$SCALE/1.8-1.8.9 ./temp/$SCALE/assets
         [ "$FRMT" = 0 ] && {
             sed -i -e "s/: 0/: 1/g" ./temp/$SCALE/pack.mcmeta
-            \cp -r ./temp/$SCALE/1.6.1-1.7.10/minecraft ./temp/$SCALE/assets
+            \cp -r ./temp/$SCALE/1.6.1-1.7.10 ./temp/$SCALE/assets
         }
         7z a "./generated/$FRMT/Dracula $PACKVER GUI Scale $SCALE MC ${MCVER[$FRMT]}.zip" ./temp/$SCALE/assets ./temp/$SCALE/LICENSE.md ./temp/$SCALE/pack.mcmeta ./temp/$SCALE/pack.png
         sed -i -e "s/: $FRMT/: -FRMT/g" ./temp/$SCALE/pack.mcmeta
