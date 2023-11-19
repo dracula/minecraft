@@ -1,0 +1,30 @@
+GIMP Palette
+Name: Dracula
+#
+  0   0   0 BLACK
+ 23  24  28 Dark 1
+ 30  31  41 Dark 2
+ 40  42  54 Base 1
+ 46  50  66 Base 2
+ 68  71  90 Light 1
+ 58  63  99 Light 2
+ 98 114 164 Light 3
+ 255  85  85 Red
+217  47  85 Dark Red
+255 184 108 Orange
+233 118  65 Dark Orange
+241 250 140 Yellow
+228 201  68 Dark Yellow
+ 80 250 123 Green
+ 58 191 115 Dark Green
+139 233 253 Blue
+ 95 181 233 Dark Blue
+189 147 249 Purple
+129 106 236 Dark Purple
+255 121 198 Pink
+213  78 190 Dark Pink
+248 248 242 Offwhite
+168 168 168 Dark White
+123  95 162 Highlight 1
+ 58  50  78 Highlight 2
+ 23 181 142 Teal
