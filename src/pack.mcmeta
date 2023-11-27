@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": -FRMT,
-    "description": "§fA clean, dark UI overhaul for Minecraft. For GUI Scale -SCALE"
+    "pack_format": FORMAT,
+    "description": "§fA clean, dark UI overhaul for Minecraft. For GUI Scale SCALE"
   }
 }
