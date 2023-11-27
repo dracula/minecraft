@@ -1,6 +1,6 @@
 ### [Minecraft](https://minecraft.net)
 
-Note: This version of the theme comes in multiple files for different GUI scales. Pick the one you play on the most for the best experience!
+**GUI scale is important!** This pack comes in multiple variations for different GUI sizes, so pick the one you play with for the best experience!
 
 #### Find your resourcepacks folder
 

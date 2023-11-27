@@ -31,8 +31,8 @@ You can find official releases in all of these places:
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/minecraft/graphs/contributors).
 
 | [![Zentheon](https://github.com/zentheon.png?size=100)](https://github.com/zentheon) |
-| --------------------------------------------------------------------------------- |
-| [Zentheon](https://github.com/zentheon)                                             |
+| ------------------------------------------------------------------------------------ |
+| [Zentheon](https://github.com/zentheon)                                              |
 
 ## Community
 
@@ -42,4 +42,4 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 ## License
 
-[MIT License](./LICENSE)
+[CC-BY-NC-SA-4.0 License](./LICENSE.md)
