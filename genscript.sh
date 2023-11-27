@@ -71,54 +71,54 @@ hash optipng 2>/dev/null || {
 # Check if ./temp directory exists
 if [ -d ./temp ]; then
 
+    INPUT=0
     while [ "$INPUT" != "y" ]; do
 
         echo
         echo ":: ./temp directory already exists (script error?). Remove? [y/n]"
         read -s -n 1 INPUT
-        [ "$INPUT" = "n" ] && exit 1
-        [ "$INPUT" = "y" ] && \rm -r ./temp
+        [ "${INPUT}" = "n" ] && exit 1
+        [ "${INPUT}" = "y" ] && \rm -r ./temp
     done
 fi
 
 # Check if generated packs already exist
 if [ -d ./generated ]; then
 
-    while [ "$INPUT" != "y" ]; do
+    INPUT=0
+    while [ "${INPUT}" != "y" ]; do
 
         echo
         echo ":: Generated packs already exist. Regenerate? [y/n]"
         read -s -n 1 INPUT
-        [ "$INPUT" = "n" ] && exit 1
-        [ "$INPUT" = "y" ] && \rm -r ./generated
+        [ "${INPUT}" = "n" ] && exit 1
+        [ "${INPUT}" = "y" ] && \rm -r ./generated
     done
 fi
 
 echo ":: Starting generation (this may take a while!)"
 
-# Enable globstar during script
-shopt -s globstar
+shopt -s globstar   # Enable globstar during script
 
-# Generate useable PNGs
 mkdir ./temp
-for SCALE in ${SCALES[@]}; do
+for SCALE in ${SCALES[@]}; do   # Loops through provided GUI scales
 
     echo "Generating images for scale ${SCALE}..."
-    rsync -a --exclude="*.svg" ./src/ ./temp/${SCALE}
-    for SVG in ./src/**/*.svg; do
+    rsync -a --exclude="*.svg" ./src/ ./temp/${SCALE}   # Copy all files EXCEPT SVGs to current ./temp/scale directory
+    for SVG in ./src/**/*.svg; do   # Loop through SVGs present in source directory
 
-        PNG=$(sed "s~src/~temp/$SCALE/~" <<< ${SVG} | sed -e "s~.svg~.png~")
-        echo "file-open:${SVG}; export-filename:${PNG}; export-dpi:${DPI[$SCALE]}; export-do" >> ./temp/${SCALE}/inkscape.txt
+        PNG=$(sed "s~src/~temp/$SCALE/~" <<< ${SVG} | sed -e "s~.svg~.png~")    # Sets output filepath corresponding to input SVG
+        echo "file-open:${SVG}; export-filename:${PNG}; export-dpi:${DPI[$SCALE]}; export-do" >> ./temp/${SCALE}/inkscape.txt   # Adds file to be processed in an inkscape script
     done
-    echo "quit" >> ./temp/${SCALE}/inkscape.txt
-    inkscape --shell < ./temp/${SCALE}/inkscape.txt &>/dev/null
+    echo "quit" >> ./temp/${SCALE}/inkscape.txt # Adds quit command to end of inkscape script
+    inkscape --shell < ./temp/${SCALE}/inkscape.txt &>/dev/null # Enters inkscape shell and runs previously created script
 done
 
 # Remove almost fully transparent pixels that don't play nice with Minecraft's texture rendering.
 for SCALE in ${SCALES[@]}; do
 
-    echo "Removing redundant pixels for scale $SCALE..."
-    for PNG in ./temp/$SCALE/**/*.png; do
+    echo "Removing redundant pixels for scale ${SCALE}..."
+    for PNG in ./temp/${SCALE}/**/*.png; do
 
         mogrify -fuzz 7% -channel RGBA -fill "#ffffff" -transparent "#88888800" ${PNG}
     done
@@ -127,31 +127,37 @@ done
 # Compress generated PNG files
 for SCALE in ${SCALES[@]}; do
 
-    echo "Optimizing images for scale $SCALE..."
-    for PNG in ./temp/$SCALE/**/*.png; do
+    echo "Optimizing images for scale ${SCALE}..."
+    for PNG in ./temp/${SCALE}/**/*.png; do
 
         optipng -q ${PNG}
     done
 done
-
 
 # Sort and compress files
 echo "Zipping packs..."
 mkdir ./generated
 for SCALE in ${SCALES[@]}; do
 
-    sed -i "s/SCALE/${SCALE}/g" ./temp/${SCALE}/pack.mcmeta
+    sed -i "s~SCALE~${SCALE}~" ./temp/${SCALE}/pack.mcmeta
     for FORMAT in ${FORMATS[@]}; do
 
-        [ ${SCALE} = 2 ] && mkdir ./generated/${FORMAT}
-        sed -i "s/FORMAT/${FORMAT}/g" ./temp/${SCALE}/pack.mcmeta
-        if [ -d ./temp/${SCALE}/${FORMAT} ]; then
+        [ ${SCALE} = 2 ] && mkdir ./generated/${FORMAT} # Create output folder for format if on first pass
+        sed -i "s/FORMAT/${FORMAT}/g" ./temp/${SCALE}/pack.mcmeta   # Edit pack.mcmeta with current format
+        if [ -e ./temp/${SCALE}/${FORMAT}.exclude ]; then   # Check if exclusion list exists
 
-            \cp -r ./temp/${SCALE}/${FORMAT}/* ./temp/${SCALE}/assets
-            [ "${FORMAT}" = 0 ] && sed -i "s/: 0/: 1/g" ./temp/${SCALE}/pack.mcmeta
+            for LINE in $(cat ./temp/${SCALE}/${FORMAT}.exclude); do    # Loop through lines in exclusion list
+
+                \rm -r ./temp/${SCALE}/assets/${LINE}   # Remove file from list
+            done
         fi
-        7z a "./generated/${FORMAT}/Dracula ${PACKVER} GUI Scale ${SCALE} MC ${MCVER[$FORMAT]}.zip" ./temp/${SCALE}/assets ./temp/${SCALE}/LICENSE.md ./temp/${SCALE}/pack.mcmeta ./temp/${SCALE}/pack.png &>/dev/null
-        sed -i "s/: ${FORMAT}/: FORMAT/g" ./temp/${SCALE}/pack.mcmeta
+        if [ -d ./temp/${SCALE}/${FORMAT} ]; then   # Check if inclusion directory exists
+
+            \cp -r ./temp/${SCALE}/${FORMAT}/* ./temp/${SCALE}/assets   # Copy directory into assets
+            [ "${FORMAT}" = 0 ] && sed -i "s~: 0~: 1~" ./temp/${SCALE}/pack.mcmeta # Change format number in pack.mcmeta from 0 to 1. "Format 0" packs are created due to a mechanic change with enchanting tables in 1.7 without a format change.
+        fi
+        7z a "./generated/${FORMAT}/Dracula ${PACKVER} GUI Scale ${SCALE} MC ${MCVER[$FORMAT]}.zip" ./temp/${SCALE}/assets ./temp/${SCALE}/LICENSE.md ./temp/${SCALE}/pack.mcmeta ./temp/${SCALE}/pack.png &>/dev/null  # Create zipped pack
+        sed -i "s~: ${FORMAT}~: FORMAT~" ./temp/${SCALE}/pack.mcmeta # Change format number back to search key in pack.mcmeta
     done
 done
 
