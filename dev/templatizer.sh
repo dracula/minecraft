@@ -1,5 +1,7 @@
 #!bin/bash
 
+# Generates
+
 # Exit if running under root
 [ "$EUID" = 0 ] && {
 
@@ -24,11 +26,6 @@ hash inkscape 2>/dev/null || {
     echo "Inkscape is not installed."
     EXIT=1
 }
-hash sed 2>/dev/null || {
-
-    echo "sed is not installed."
-    EXIT=1
-}
 [ "$EXIT" = "1" ] && {
 
     echo
@@ -37,38 +34,41 @@ hash sed 2>/dev/null || {
     exit 1
 }
 
-# Get modid to generate in from user
-VALID=0
-while [ "$VALID" = "0" ]; do
+# Check if there're files in ./templatizer/input
+[ -e ./templatizer/input/* ] || {
 
     echo
-    echo ":: Input a valid modid to generate templates in (the folders inside /src/assets)"
-    read MODID
-    [ -d "../src/assets/$MODID/" ] && VALID=1
-done
+    echo ":: There's nothing inside ./templetizer/input!"
+    echo
+    exit 1
+}
 
 # Enable globstar during script
 shopt -s globstar
 
-# Primary loop
-for FILE in ../src/assets/$MODID/**/*.png; do
+echo "Copying all non-PNG files..."
+rsync -a --exclude="*.png" ./templatizer/input/ ./templatizer/output
 
-    inkscape -p $FILE -o temp.svg
-    cp ./base.svg ${FILE%png}svg
-    for LINE in 37 36 35 34 33 32 31; do
+echo "Creating templates..."
+for INPUT in ./templatizer/input/**/*.png; do
 
-        sed -n ${LINE}p temp.svg | sed -i '38r /dev/stdin' ${FILE%png}svg
-        # Yes, this is a very lazy solution
+    OUTPUT=$(sed -e 's~templatizer/input~templatizer/output~;s~.png~.svg~' <<< ${INPUT})    # Set OUTPUT as image file corresponding to input
+    inkscape -p $INPUT -o ./templatizer/temp.svg    # Create temporary SVG to get image code from
+    cp ./base.svg ${OUTPUT} # Create a copy of base.svg at output path
+    for LINE in 37 36 35 34 33 32 31; do # Loop for lines in temp svg that has the image code and add it to OUTPUT. Yes, this is a very lazy solution
+
+        sed -n ${LINE}p ./templatizer/temp.svg | sed -i '38r /dev/stdin' ${OUTPUT}
     done
-    WIDTH=$(inkscape -W -p temp.svg)
-    HEIGHT=$(inkscape -H -p temp.svg)
-    sed -i s~width=\"$WIDTH\"~width=\"$((WIDTH*4))\"~ ${FILE%png}svg
-    sed -i s~width=\"1024\"~width=\"$((WIDTH*4))\"~ ${FILE%png}svg
-    sed -i s~height=\"$HEIGHT\"~height=\"$(($HEIGHT*4))\"~ ${FILE%png}svg
-    sed -i s~height=\"1024\"~height=\"$(($HEIGHT*4))\"~ ${FILE%png}svg
-    rm temp.svg
+    WIDTH=$(inkscape -W -p ./templatizer/temp.svg)  # Set WIDTH as width of temp.svg using inkscape
+    HEIGHT=$(inkscape -H -p ./templatizer/temp.svg) # Same as width but for height
+    # All the bellow commands set the correct width and height in output file. Multiple passes are needed since there is the static SVG size and then the size of copied image itself.
+    sed -i s~width=\"$WIDTH\"~width=\"$((WIDTH*4))\"~ ${OUTPUT}
+    sed -i s~width=\"1024\"~width=\"$((WIDTH*4))\"~ ${OUTPUT}
+    sed -i s~height=\"$HEIGHT\"~height=\"$(($HEIGHT*4))\"~ ${OUTPUT}
+    sed -i s~height=\"1024\"~height=\"$(($HEIGHT*4))\"~ ${OUTPUT}
+    rm ./templatizer/temp.svg
 done
 
 echo
-echo ":: Finished generating templates for $MODID."
+echo ":: Finished generating templates."
 echo
