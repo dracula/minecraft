@@ -59,8 +59,8 @@ for INPUT in ./templatizer/input/**/*.png; do
 
         sed -n ${LINE}p ./templatizer/temp.svg | sed -i '38r /dev/stdin' ${OUTPUT}
     done
-    WIDTH=$(inkscape -W -p ./templatizer/temp.svg)  # Set WIDTH as width of temp.svg using inkscape
-    HEIGHT=$(inkscape -H -p ./templatizer/temp.svg) # Same as width but for height
+    WIDTH=$(inkscape -W ./templatizer/temp.svg)  # Set WIDTH as width of temp.svg using inkscape
+    HEIGHT=$(inkscape -H ./templatizer/temp.svg) # Same as width but for height
     # All the bellow commands set the correct width and height in output file. Multiple passes are needed since there is the static SVG size and then the size of copied image itself.
     sed -i s~width=\"$WIDTH\"~width=\"$((WIDTH*4))\"~ ${OUTPUT}
     sed -i s~width=\"1024\"~width=\"$((WIDTH*4))\"~ ${OUTPUT}
