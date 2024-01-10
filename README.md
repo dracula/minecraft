@@ -24,7 +24,11 @@ You can find official releases in all of these places:
 | --- | --- | --- |
 | [Modrinth](https://modrinth.com/resourcepack/dracula-theme) | [Curseforge](https://www.curseforge.com/minecraft/texture-packs/dracula-theme) | [Github](https://github.com/dracula/minecraft/releases) |
 
-##### If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
+#### Load the pack
+
+Simply add the zip file you just downloaded to the resourcepacks folder, enable in-game and enjoy!
+
+##### If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.wiki/w/Tutorials/Loading_a_resource_pack).
 
 ## Team
 
