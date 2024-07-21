@@ -7,8 +7,8 @@
    width="32"
    height="32"
    viewBox="0 0 32 32"
-   sodipodi:docname="icons.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="ping_3.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    inkscape:export-filename="icons.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -28,15 +28,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     inkscape:zoom="9.71875"
-     inkscape:cx="22.07074"
-     inkscape:cy="796.03859"
+     inkscape:zoom="6.872194"
+     inkscape:cx="1.3823824"
+     inkscape:cy="5.9660714"
      inkscape:window-width="3490"
      inkscape:window-height="1440"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g7">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        type="xygrid"
@@ -50,70 +50,30 @@
        empspacing="4" />
   </sodipodi:namedview>
   <g
-     id="g1584"
-     style="display:inline"
-     inkscape:label="Ping"
-     transform="translate(-4,-124)">
+     id="g7"
+     inkscape:label="Ping 3 Icon"
+     transform="translate(-4,-116)"
+     style="display:inline">
     <path
-       id="path1570-8"
-       style="display:inline;fill:#3b3e63;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 76,60 44,92 h 32 z m -3,7 V 89 H 51 Z m 3,25 -32,32 h 32 z m -3,7 v 22 H 51 Z m 3,25 -32,32 h 32 z m -3,7 v 22 H 51 Z m 3,25 -32,32 h 32 z m -3,7 v 22 H 51 Z m 3,25 -32,32 h 32 z m -3,7 v 22 H 51 Z"
-       inkscape:label="Loading" />
+       style="display:inline;fill:#c16450;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30,123 -19,19 h 4 l 15,-15 z"
+       id="path3-9-4"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="Shadow 2" />
     <path
-       id="path1744"
-       style="display:inline;fill:#ff79c6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 57,83 -6,6 h 6 z m 3,29 -4,4 v 5 h 4 z m 6,26 -4,4 v 11 h 4 z m 5,27 -4,4 v 16 h 4 z m 2,30 -4,4 v 18 h 4 z"
-       inkscape:label="Loading Bars"
-       sodipodi:nodetypes="cccccccccccccccccccccccc" />
-    <path
-       id="path1570"
-       style="fill:#3b3e63;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 36,220 4,252 h 32 z m -3,7 v 22 H 11 Z"
-       inkscape:label="No Signal" />
-    <path
-       id="path1582"
-       style="display:inline;fill:none;stroke:#ffb86c;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 22,246 v 4 m 0,-26 v 18"
-       inkscape:label="Exclamation" />
-    <path
-       id="path1572"
-       style="display:inline;fill:#ff5555;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 36,188 4,220 h 32 z m -3,7 v 22 H 16 v -5 z"
-       inkscape:label="1"
-       inkscape:export-filename="./path1572.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       id="path1574"
-       style="display:inline;fill:#ffb86c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 36,156 4,188 h 32 z m -4,8 v 20 H 20 v -8 z"
-       inkscape:label="2"
-       inkscape:export-filename="./path1574.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       style="display:inline;fill:#c16450;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 7,148 -3,-3 h 29 v -29 l 3,3 v 29 z"
+       id="path2-6"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="Shadow 1" />
     <path
        id="path1576"
-       style="display:inline;fill:#f1fa8c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 36,124 4,156 h 32 z m -4,8 v 20 h -8 v -12 z"
-       inkscape:label="3"
-       inkscape:export-filename="./path1576.png"
+       style="display:inline;fill:#ffb86c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 33,116 4,145 h 29 z m -3,7 v 19 h -9 v -10 z"
+       inkscape:label="Base"
+       inkscape:export-filename="./path1576.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       id="path1578"
-       style="display:inline;fill:#c6ff81;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 36,92 4,124 h 32 z m -4,8 v 20 h -4 v -16 z"
-       inkscape:label="4"
-       inkscape:export-filename="./path1578.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="display:inline;fill:#50fa7b;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 36,60 4,92 h 32 z"
-       id="path1580"
-       inkscape:label="5"
-       inkscape:export-filename="./path1580.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccccccccc" />
   </g>
 </svg>
