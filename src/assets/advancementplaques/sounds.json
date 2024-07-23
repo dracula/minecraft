@@ -1,0 +1,18 @@
+{
+	"ui.toast.goal_complete": {
+		"sounds": [
+			{
+			  "name": "advancementplaques:ui/toast/goal_complete",
+			  "volume": 0.6
+			}
+		  ]
+	  },
+	  "ui.toast.task_complete": {
+		"sounds": [
+			{
+			  "name": "advancementplaques:ui/toast/task_complete",
+			  "volume": 0.6
+			}
+		  ]
+	  }
+}

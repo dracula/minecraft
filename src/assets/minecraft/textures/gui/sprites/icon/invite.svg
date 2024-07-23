@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="56"
+   height="56"
+   viewBox="0 0 56 56"
+   sodipodi:docname="invite.svg"
+   xml:space="preserve"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:export-filename="invite.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6" /><sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:zoom="18.546876"
+     inkscape:cx="27.524851"
+     inkscape:cy="29.331085"
+     inkscape:window-width="3470"
+     inkscape:window-height="1440"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1"><inkscape:grid
+       type="xygrid"
+       id="grid793"
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true"
+       empspacing="4" /></sodipodi:namedview><g
+     id="g1"
+     inkscape:label="Invite Icon"><path
+       id="rect1"
+       style="display:inline;fill:#f8f8f2;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
+       d="M 12 4 C 7.5680044 4 4 7.5680044 4 12 L 22 24 L 34 24 L 52 12 C 52 7.5680044 48.431996 4 44 4 L 12 4 z M 4 20 L 4 44 C 4 48.431996 7.5680044 52 12 52 L 44 52 C 48.431996 52 52 48.431996 52 44 L 52 20 L 34 32 L 34 35 C 34 37.215998 32.215998 39 30 39 L 26 39 C 23.784002 39 22 37.215998 22 35 L 22 32 L 4 20 z "
+       inkscape:label="Invite" /></g></svg>

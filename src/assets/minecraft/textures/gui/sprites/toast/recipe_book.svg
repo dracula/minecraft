@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="80"
+   height="80"
+   xml:space="preserve"
+   inkscape:export-filename="base.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16, custom)"
+   sodipodi:docname="recipe_book.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs6" /><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   showgrid="true"
+   inkscape:current-layer="svg2"
+   inkscape:zoom="15.45"
+   inkscape:cx="40"
+   inkscape:cy="40"
+   inkscape:window-width="5070"
+   inkscape:window-height="1440"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"><inkscape:grid
+     type="xygrid"
+     id="Main Grid"
+     originx="0"
+     originy="0"
+     spacingy="1"
+     spacingx="1"
+     units="px"
+     visible="true"
+     empspacing="4"
+     snapvisiblegridlinesonly="true" /></sodipodi:namedview>
+    
+<g
+   id="g56"
+   inkscape:label="Crafting Button"
+   transform="translate(-704,-78)"><path
+     d="m 725,94 c -7,0 -11,4 -11,11 v 25.99999 c 0,7 4,11 11,11 h 38 c 7,0 11,-4 11,-11 V 105 c 0,-7 -4,-11 -11,-11 z"
+     style="display:inline;fill:#6272a4;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path1793-3"
+     sodipodi:nodetypes="sssssssss"
+     inkscape:label="Button" /><path
+     id="path2412"
+     style="display:inline;fill:none;stroke:#f8f8f2;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 738,130 h 26 m 0,-12 h -26 m 26,-12 h -26 m -8,24 h -6 m 6,-12 h -6 m 6,-12 h -6"
+     inkscape:label="Icon"
+     sodipodi:nodetypes="cccccccccccc" /></g></svg>

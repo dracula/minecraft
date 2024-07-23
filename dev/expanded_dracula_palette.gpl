@@ -1,0 +1,43 @@
+GIMP Palette
+Name: Dracula
+# Codes to represent where a color came from:
+# At (@): From official palette at https://draculatheme.com/contribute
+# Asterisk (*): From official GTK theme at https://draculatheme.com/gtk
+# And (&): Palette expansion
+#
+  0   0   0 BLACK
+ 23  24  28 &Dark 1
+ 30  31  41 &Dark 2
+ 40  42  54 @Base 1
+ 46  50  66 &Base 2
+ 58  63  99 &Base 3
+ 68  71  90 @Extra 1
+ 98 114 164 @Extra 2
+ 255  85  85 @Red
+217  47  85 &Dark Red
+168  27  85 &Darker Red
+255 184 108 @Orange
+225 125  75 &Dark Orange
+193 100  80 &Darker Orange
+241 250 140 @Yellow
+229 204  85 &Dark Yellow
+200 158  55 &Darker Yellow
+ 80 250 123 @Green
+ 58 191 115 &Dark Green
+ 32 158 111 &Darker Green
+139 233 253 @Blue
+ 95 181 233 &Dark Blue
+ 93 143 205 &Darker Blue
+189 147 249 @Purple
+135 115 230 &Dark Purple
+100  95 193 &Darker Purple
+255 121 198 @Pink
+213  78 190 &Dark Pink
+175  74 175 &Darker Pink
+248 248 242 @Offwhite
+180 180 171 &Gray 1
+128 124 121 &Gray 2
+123  95 162 *Highlight 1
+ 58  50  78 *Highlight 2
+ 23 181 142 *Teal
+ 34 117 113 &Dark Teal

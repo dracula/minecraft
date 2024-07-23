@@ -1,0 +1,13 @@
+minecraft/lang
+minecraft/textures/item
+minecraft/textures/mob_effect
+minecraft/textures/gui/container/blast_furnace.png
+minecraft/textures/gui/container/cartography_table.png
+minecraft/textures/gui/container/grindstone.png
+minecraft/textures/gui/container/loom.png
+minecraft/textures/gui/container/smoker.png
+minecraft/textures/gui/container/stonecutter.png
+minecraft/textures/gui/container/villager2.png
+minecraft/textures/gui/accessibility.png
+minecraft/textures/gui/checkbox.png
+minecraft/textures/gui/recipe_button.png

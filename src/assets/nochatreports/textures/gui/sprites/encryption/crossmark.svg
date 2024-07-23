@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="48"
+   height="48"
+   xml:space="preserve"
+   inkscape:export-filename="base.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="crossmark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs6" /><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   showgrid="true"
+   inkscape:current-layer="svg2"
+   inkscape:zoom="17.972297"
+   inkscape:cx="47.044625"
+   inkscape:cy="34.080228"
+   inkscape:window-width="3479"
+   inkscape:window-height="1379"
+   inkscape:window-x="81"
+   inkscape:window-y="30"
+   inkscape:window-maximized="0"><inkscape:grid
+     type="xygrid"
+     id="Main Grid"
+     originx="0"
+     originy="0"
+     spacingy="1"
+     spacingx="1"
+     units="px"
+     visible="true"
+     empspacing="4"
+     snapvisiblegridlinesonly="true" /><inkscape:page
+     x="0"
+     y="0"
+     width="48"
+     height="48"
+     id="page2"
+     margin="0"
+     bleed="0" /></sodipodi:namedview>
+    
+
+    
+<g
+   id="g2-9"
+   inkscape:label="X Icon"><path
+     style="display:inline;fill:#a81b55;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 6,8 20,22 5.967213,36 14,44 27.98688,29.980355 41.967213,44 l 4,-4 L 32,26 46,12 42,8 38,4 23.967213,18 10,4 Z"
+     id="path2-6-1"
+     inkscape:label="X Shadow"
+     sodipodi:nodetypes="cccccccccccccc" /><path
+     id="path1-2"
+     style="display:inline;fill:#ff5555;stroke:none;stroke-width:1.71429px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 10.032787,4 -4,4 L 20,22 6,36 10,40 24,26 38,40 42,36 28,22 42,7.967213 l -4,-4 L 24,18 Z"
+     sodipodi:nodetypes="ccccccccccccc"
+     inkscape:label="X Icon" /></g></svg>

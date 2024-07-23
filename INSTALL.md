@@ -1,20 +1,21 @@
 ### [Minecraft](https://minecraft.net)
 
-#### Install using Git
+**GUI scale is important!** This pack comes in multiple variations for different GUI sizes, so pick the one you play with for the best experience!
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+#### Find your resourcepacks folder
 
-    git clone https://github.com/Xetheon/minecraft
+To install this theme you need to first find your resourcepack folder. The quickest and easiest way to do this is from in-game.
 
-#### Download manually
+1. Open up your desired version of Minecraft.
+2. Go into "Options" and then "Resource Packs"
+3. Click "Open Pack Folder"
 
-Go to [Releases](https://github.com/dracula/minecraft/releases) and get it there or download it from [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dracula-ui)
+#### Download the pack
 
-#### Installing pack
+You can find official releases in all of these places:
 
-1. Open up Minecraft
-2. Go to Options > Resource Packs > Open Pack Folder
-3. Place the .zip of your desired release into the resourcepacks folder
-4. Enable within Minecraft and enjoy! (Note: If you use the colored shulkers addon, make sure it's above the base Dracula pack.)
+| [![Modrinth](./images/modrinth.png)](https://modrinth.com/resourcepack/dracula-theme) | [![Curseforge](./images/curseforge.png)](https://www.curseforge.com/minecraft/texture-packs/dracula-theme) | [![Github](./images/github.png)](https://github.com/dracula/minecraft/releases) |
+| --- | --- | --- |
+| [Modrinth](https://modrinth.com/resourcepack/dracula-theme) | [Curseforge (Legacy)](https://www.curseforge.com/minecraft/texture-packs/dracula-theme) | [Github](https://github.com/dracula/minecraft/releases) |
 
-If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
+##### If you have any troubles installing, check out the Minecraft Wiki page on [how to install resourcepacks](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack).
