@@ -1,0 +1,43 @@
+gui.achievements=§fAchievements
+
+container.inventory=
+container.hopper=
+container.crafting=
+container.dispenser=§fDispenser
+container.dropper=§fDropper
+container.furnace=
+container.enchant=
+container.repair=
+container.brewing=
+container.chest=
+container.chestDouble=
+container.enderchest=
+container.beacon=
+container.shulkerBox=
+
+itemGroup.buildingBlocks=§fBuilding Blocks
+itemGroup.decorations=§fDecoration Blocks
+itemGroup.redstone=§fRedstone
+itemGroup.transportation=§fTransportation
+itemGroup.misc=§fMiscellaneous
+itemGroup.search=§fSearch Items
+itemGroup.food=§fFoodstuffs
+itemGroup.tools=§fTools
+itemGroup.combat=§fCombat
+itemGroup.brewing=§fBrewing
+itemGroup.materials=§fMaterials
+itemGroup.inventory=§fSurvival Inventory
+itemGroup.hotbar=§fSaved Toolbars
+
+entity.Villager.farmer=§fFarmer
+entity.Villager.fisherman=§fFisherman
+entity.Villager.shepherd=§fShepherd
+entity.Villager.fletcher=§fFletcher
+entity.Villager.librarian=§fLibrarian
+entity.Villager.cleric=§fCleric
+entity.Villager.armor=§fArmorer
+entity.Villager.weapon=§fWeapon Smith
+entity.Villager.tool=§fTool Smith
+entity.Villager.butcher=§fButcher
+entity.Villager.leather=§fLeatherworker
+entity.Villager.cartographer=§fCartographer
