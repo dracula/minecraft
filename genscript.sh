@@ -3,9 +3,6 @@
 # This script generates useable resourcepacks for every respack-compatible minecraft version in .zip format.
 # Output located in ./generated
 
-# Pack version.
-PACKVER="Dev"
-
 # Pack formats to generate.
 FORMATS=(34 32 22 18 15 13 12 9 8 7 6 5 4 3 2 1 0)
 
@@ -96,6 +93,13 @@ if [ -d ./generated ]; then
     done
 fi
 
+# Get pack version to use
+while [ "$PACKVER" = "" ]; do
+
+    echo
+    read -p ":: Enter the pack version (eg: 'v2.x' or 'Dev'): " PACKVER
+done
+
 echo ":: Starting generation (this may take a while!)"
 
 shopt -s globstar   # Enable globstar during script.
@@ -138,7 +142,7 @@ done
 mkdir ./generated
 for SCALE in ${SCALES[@]}; do
 
-    echo "Sorting pack files and creating zipped packs for scale ${SCALE}..."
+    echo "Sorting files and creating zipped packs for scale ${SCALE}..."
     sed -i "s~SCALE~${SCALE}~" ./temp/${SCALE}/pack.mcmeta  # Change scale to currently looped number in pack description.
     for FORMAT in ${FORMATS[@]}; do
 
