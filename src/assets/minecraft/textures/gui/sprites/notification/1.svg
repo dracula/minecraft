@@ -59,7 +59,7 @@
      rx="12"
      ry="12" />
   <path
-     d="m 18,4 h -3 l -5,5 v 3 h 4 V 24 H 7.9999999 v 4 H 24 v -4 h -6 z"
+     d="m 18,4 h -3 l -5,5 v 3 h 4 V 24 H 8 v 4 H 24 v -4 h -6 z"
      style="fill:#f8f8f2;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="path1"
      sodipodi:nodetypes="cccccccccccc" />

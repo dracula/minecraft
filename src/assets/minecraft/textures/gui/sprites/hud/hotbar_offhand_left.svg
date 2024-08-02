@@ -67,7 +67,7 @@
      id="g3"
      inkscape:label="HUD Slot Offhand"
      style="display:inline"
-     transform="translate(-95.99999,-88)"><path
+     transform="translate(-96,-88)"><path
        d="m 178,117 1e-5,38 c 0,12 -7,19 -19,19 h -38 c -13,0 -19,-7 -19,-19 L 102,117 c 0,-12 7,-19 19,-19 h 38 c 12,0 19,7 19,19 z"
        style="display:inline;fill:url(#linearGradient17211);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5473"

@@ -68,11 +68,11 @@
    id="g34-1-6-7"
    inkscape:label="Tab Selected Top Right"
    style="display:inline"
-   transform="rotate(-90,806.16092,294.16091)"><path
+   transform="rotate(-90,806,294)"><path
      id="path33-2-2-59"
      style="display:inline;fill:#292936;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
      inkscape:label="Fill"
-     d="m 1098,-435 -25,25 H 972 v -102 l 6.32182,-10e-6 v 3 l 7,7 L 1073,-502 l 25,25 z"
+     d="m 1098,-435 -25,25 H 972 v -102 l 6,-10e-6 v 3 l 7,7 L 1073,-502 l 25,25 z"
      sodipodi:nodetypes="cccccccccc" /><path
      id="path34-7-6-2"
      style="color:#000000;fill:url(#linearGradient13-0);-inkscape-stroke:none"

@@ -67,7 +67,7 @@
      id="g19"
      inkscape:label="Slot Highlighted"
      style="display:inline;opacity:1;fill:#17181c;fill-opacity:1"
-     transform="matrix(2.4210526,0,0,2.4210526,195.78947,374.73684)"><rect
+     transform="matrix(2,0,0,2,196,375)"><rect
        style="display:inline;opacity:1;fill:url(#linearGradient15);fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
        id="rect18"
        width="76"
@@ -95,7 +95,7 @@
      rx="38"
      ry="37.999996"
      inkscape:label="Slot"
-     transform="translate(-8.0000013,-194)" /><rect
+     transform="translate(-8,-194)" /><rect
      style="display:inline;opacity:0.5;fill:#17181c;fill-opacity:1;fill-rule:evenodd;stroke-width:3.06599;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect17"
      width="1000"

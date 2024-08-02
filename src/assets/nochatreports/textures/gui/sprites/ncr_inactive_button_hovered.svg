@@ -108,6 +108,6 @@
    inkscape:label="Bubble Icon"><path
      id="path1-3-7"
      style="display:inline;fill:#f8f8f2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.305003;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-     d="M 21.99995,56 16.0016,49.98789 16,30 30,16 l 28.00165,-0.01211 6,6 L 63.99995,42 l -14,14 -11.99837,-0.0121 -12,12 h -4 z M 56.00779,39.98734 H 23.98247 l 0.0191,6.00055 L 49.99995,46 Z m -0.006,-13.99945 -25.994,-5.5e-4 -6,6 32.00022,-0.0063 z"
+     d="M 22,56 16,50 16,30 30,16 l 28,-0 6,6 L 64,42 l -14,14 -12,-0 -12,12 h -4 z M 56,40 H 24 l 0,6 L 50,46 Z m -0,-14 -26,-6e-4 -6,6 32,-0 z"
      inkscape:label="Bubble"
      sodipodi:nodetypes="cccccccccccccccccccccc" /></g></svg>

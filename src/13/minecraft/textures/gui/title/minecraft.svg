@@ -253,13 +253,13 @@
      style="stroke:none;stroke-opacity:1;stroke-width:8;stroke-dasharray:none;paint-order:stroke markers fill;fill:#181125;fill-opacity:1">
     <path
        style="fill:#181125;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       d="M 4,180 7.6623245,313.94647 4,356 h 49.514764 l 5.72715,-27.87035 3.828299,27.8756 L 111.08575,356 118.91983,333.99793 120.54213,356 h 46.23035 L 181.97568,329.31061 182,356 h 46.3607 L 240,336 239.06221,355.9974 286,356 318.14303,314 316,304 h 26.68785 L 366.82463,269.43877 390.42322,356 h 45.4711 l 41.32236,-42 -27.8406,-82 23.3345,-20 -10.64826,-32 H 354.4503 L 350,188 347.04112,180 239.19394,180.03189 232.60328,198 229.77791,180 H 119.5461 L 115.22213,201.99181 111.5833,180 Z"
+       d="M 4,180 8,314 4,356 h 50 l 6,-28 4,28 L 111,356 119,334 121,356 h 46 L 182,329 182,356 h 46 L 240,336 239,356 286,356 318,314 316,304 h 27 L 367,269 390,356 h 45 l 41,-42 -28,-82 23,-20 -11,-32 H 354 L 350,188 347,180 239,180 233,198 230,180 H 120 L 115,202 112,180 Z"
        id="path3314"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccc"
        inkscape:label="RAFT" />
     <path
        style="stroke:none;stroke-opacity:1;stroke-width:1px;stroke-dasharray:none;paint-order:stroke markers fill;fill:#181125;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter"
-       d="M 390.3563,0 389.12122,10.623723 384.52249,0 h -49.7034 L 328,36 308.59687,0 H 260.88492 L 258.33846,11.877999 252.95327,0 H 203.08353 L 200.19879,10.860903 195.10402,0.02022518 143.16204,0 135.0794,25.955573 121.24076,26.013321 117.54673,36.089854 89.046157,0 H 43.160632 L 0,134 40,176 H 90.562852 L 98,144 l 4,4 h 17.03058 L 144,176 h 52 l 1.13981,-6.19838 L 202,176 h 48.72474 L 253.27301,163.31627 262,176 h 46 L 313.79352,142.27248 334,176 l 47.45787,0.0339 3.06462,-18.87317 L 391.31915,176 H 496 L 500.3472,140.43375 500.47883,0 Z M 508,176 h 108 l 4,-42 v -34 l -59.65312,-0.01661 0.32,-24.105834 L 614.68767,76 618.27468,32.163024 618.00666,0 H 508.1919 l -4.16992,133.58126 z"
+       d="M 390,0 389,11 385,0 h -50 L 328,36 309,0 H 261 L 258,12 253,0 H 203 L 200,11 195,0 143,0 135,26 121,26 118,36 89,0 H 43 L 0,134 40,176 H 91 L 98,144 l 4,4 h 17 L 144,176 h 52 l 1,-6 L 202,176 h 49 L 253,163 262,176 h 46 L 314,142 334,176 l 47,0 3,-19 L 391,176 H 496 L 500,140 500,0 Z M 508,176 h 108 l 4,-42 v -34 l -60,-0 0,-24 L 615,76 618,32 618,0 H 508 l -4,134 z"
        id="path3280"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccc"
        inkscape:label="MINEC" />
@@ -276,7 +276,7 @@
     <path
        id="path511"
        style="fill:url(#linearGradient2607);fill-opacity:1;stroke-width:8;stroke-dasharray:none;paint-order:stroke markers fill;stroke:none;stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:miter"
-       d="m 508,134 4,38 h 100 l 4,-38 m -236,0 14,38 h 98 l -2,-38 M 313.51771,134 336,172 h 40 l -12,-38 m -126,0 26,38 h 38 l -18,-38 m -110,0 30,38 h 40 l -24,-38 m -108,0 34,38 h 42 l -30,-38 m -88,-28 34,38 h 11.55487 L 106.83569,134 112,116 104,106 M 4,134 42,172 H 82 L 48,134"
+       d="m 508,134 4,38 h 100 l 4,-38 m -236,0 14,38 h 98 l -2,-38 M 314,134 336,172 h 40 l -12,-38 m -126,0 26,38 h 38 l -18,-38 m -110,0 30,38 h 40 l -24,-38 m -108,0 34,38 h 42 l -30,-38 m -88,-28 34,38 h 12 L 107,134 112,116 104,106 M 4,134 42,172 H 82 L 48,134"
        inkscape:label="MINEC" />
   </g>
   <g
@@ -286,12 +286,12 @@
     <path
        id="path1090"
        style="stroke:none;stroke-opacity:1;stroke-width:8;stroke-dasharray:none;paint-order:stroke markers fill;fill:url(#linearGradient1288);fill-opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter"
-       d="m 360,184 8,24 25.69943,-0.38897 L 426,314 h 46 L 436,207.61103 467.19409,208 l -8,-24 z m -116,0 24,130 h 46 l -12,-54 h 64 l -8,-28 h -60 l -6,-24 h 60 l -8,-24 z m -120,0 14,130 h 48 l -6,-42 h 16 l 8,42 h 44 L 226,184 Z m 32,24 h 14 l 2,12 h 16 l -2,-12 h 14 l 2,12 h -14 l 2,8 h 12 l 4,24 h -12 l -2,-12 h -14 l 2,12 h -12 l -4,-24 h 10 l -2,-8 H 158 Z M 8,184 12,314 h 46 l -4,-54 h 16 l 6,54 h 46 l -6.81836,-68 H 100 l -2,-14 h 16.40625 L 108,184 Z m 44,24 h 12 l 2,24 H 54 Z"
+       d="m 360,184 8,24 26,-0 L 426,314 h 46 L 436,208 467,208 l -8,-24 z m -116,0 24,130 h 46 l -12,-54 h 64 l -8,-28 h -60 l -6,-24 h 60 l -8,-24 z m -120,0 14,130 h 48 l -6,-42 h 16 l 8,42 h 44 L 226,184 Z m 32,24 h 14 l 2,12 h 16 l -2,-12 h 14 l 2,12 h -14 l 2,8 h 12 l 4,24 h -12 l -2,-12 h -14 l 2,12 h -12 l -4,-24 h 10 l -2,-8 H 158 Z M 8,184 12,314 h 46 l -4,-54 h 16 l 6,54 h 46 l -7,-68 H 100 l -2,-14 h 16 L 108,184 Z m 44,24 h 12 l 2,24 H 54 Z"
        inkscape:label="RAFT" />
     <path
        id="path421"
        style="stroke:none;stroke-opacity:1;stroke-width:8;stroke-dasharray:none;paint-order:stroke markers fill;fill-opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;fill:url(#linearGradient11719)"
-       d="M 46,4 4,134 H 48 L 64,80 h 14 l -8,26 h 34 l 8,-26 h 14 l -14,54 h 46 L 190,4 h -44 l -8,26 h -14 l -8,22 H 86 L 92,30 H 78 L 84,4 Z m 160,0 -32,130 h 46 L 248,4 Z m 58,0 -26,130 h 46 l 12,-64 h 12 l -4,26 h 16 l -6.48229,38 H 364 L 380,4 h -42 l -8.38912,48 H 312 l 4,-24 h -16 l 4,-24 z m 130,0 -14,130 h 110 l 2,-30 h -64 l 4,-24 h 58 l 2,-28 h -60 l 4,-24 h 58 l 2,-24 z m 118,0 -4,130 h 108 v -30 h -60 l 2,-76 h 55.98917 L 614,4 Z"
+       d="M 46,4 4,134 H 48 L 64,80 h 14 l -8,26 h 34 l 8,-26 h 14 l -14,54 h 46 L 190,4 h -44 l -8,26 h -14 l -8,22 H 86 L 92,30 H 78 L 84,4 Z m 160,0 -32,130 h 46 L 248,4 Z m 58,0 -26,130 h 46 l 12,-64 h 12 l -4,26 h 16 l -6,38 H 364 L 380,4 h -42 l -8,48 H 312 l 4,-24 h -16 l 4,-24 z m 130,0 -14,130 h 110 l 2,-30 h -64 l 4,-24 h 58 l 2,-28 h -60 l 4,-24 h 58 l 2,-24 z m 118,0 -4,130 h 108 v -30 h -60 l 2,-76 h 56 L 614,4 Z"
        inkscape:label="MINEC" />
   </g>
 </svg>

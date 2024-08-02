@@ -50,5 +50,5 @@
      inkscape:label="Invite Icon"><path
        id="rect1"
        style="display:inline;fill:#f8f8f2;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-       d="M 12 4 C 7.5680044 4 4 7.5680044 4 12 L 22 24 L 34 24 L 52 12 C 52 7.5680044 48.431996 4 44 4 L 12 4 z M 4 20 L 4 44 C 4 48.431996 7.5680044 52 12 52 L 44 52 C 48.431996 52 52 48.431996 52 44 L 52 20 L 34 32 L 34 35 C 34 37.215998 32.215998 39 30 39 L 26 39 C 23.784002 39 22 37.215998 22 35 L 22 32 L 4 20 z "
+       d="M 12 4 C 8 4 4 8 4 12 L 22 24 L 34 24 L 52 12 C 52 8 48 4 44 4 L 12 4 z M 4 20 L 4 44 C 4 48 8 52 12 52 L 44 52 C 48 52 52 48 52 44 L 52 20 L 34 32 L 34 35 C 34 37 32 39 30 39 L 26 39 C 24 39 22 37 22 35 L 22 32 L 4 20 z "
        inkscape:label="Invite" /></g></svg>

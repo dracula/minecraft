@@ -63,10 +63,10 @@
 <path
    id="path28"
    style="display:inline;fill:#f8f8f2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.305003;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-   d="M 101.99209,208.01211 95.99374,202 v -28 l 6,-6 h 36 l 6,6 0.0125,28 -6.01252,6.01211 -20,-0.0121 -12,12 h -4 z"
+   d="M 102,208 96,202 v -28 l 6,-6 h 36 l 6,6 0,28 -6,6 -20,-0 -12,12 h -4 z"
    inkscape:label="Bubble"
    sodipodi:nodetypes="cccccccccccc"
-   transform="translate(-92,-163.97705)" />
+   transform="translate(-92,-164)" />
     
 <g
    id="g2"

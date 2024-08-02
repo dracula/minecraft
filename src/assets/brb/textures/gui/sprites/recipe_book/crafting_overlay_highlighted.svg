@@ -49,7 +49,7 @@
 <g
    id="g66-3"
    inkscape:label="Crafting Highlighted"
-   transform="translate(-0.03934426,-240.03934)"
+   transform="translate(-0,-240)"
    style="display:inline"><rect
      style="display:inline;fill:#7b5fa2;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect65-6"
@@ -63,4 +63,4 @@
      id="rect66-0"
      style="display:inline;fill:#3a324e;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      inkscape:label="Fill"
-     d="m 20,246 c -7.755992,0 -14,6.24401 -14,14 v 12 h 26 v -26 z m 16,0 v 26 h 24 v -26 z m 28,0 v 26 h 26 v -12 c 0,-7.75599 -6.244008,-14 -14,-14 z M 6,276 v 24 h 26 v -24 z m 30,0 v 24 h 24 v -24 z m 28,0 v 24 H 90 V 276 Z M 6,304 v 12 c 0,7.75599 6.244008,14 14,14 h 12 v -26 z m 30,0 v 26 h 24 v -26 z m 28,0 v 26 h 12 c 7.755992,0 14,-6.24401 14,-14 v -12 z" /></g></svg>
+     d="m 20,246 c -8,0 -14,6 -14,14 v 12 h 26 v -26 z m 16,0 v 26 h 24 v -26 z m 28,0 v 26 h 26 v -12 c 0,-8 -6,-14 -14,-14 z M 6,276 v 24 h 26 v -24 z m 30,0 v 24 h 24 v -24 z m 28,0 v 24 H 90 V 276 Z M 6,304 v 12 c 0,8 6,14 14,14 h 12 v -26 z m 30,0 v 26 h 24 v -26 z m 28,0 v 26 h 12 c 8,0 14,-6 14,-14 v -12 z" /></g></svg>

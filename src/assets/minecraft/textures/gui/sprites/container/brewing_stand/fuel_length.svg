@@ -79,5 +79,5 @@
      id="rect2"
      style="fill:url(#linearGradient2);fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      inkscape:label="Fuel Slot"
-     d="m 704,116 h 64 c 4.432,0 8,3.568 8,8 0,4.432 -3.568,8 -8,8 h -56 c -4.432,0 -8,-3.568 -8,-8 0,-4.432 0,-8 0,-8 z"
+     d="m 704,116 h 64 c 4,0 8,4 8,8 0,4 -4,8 -8,8 h -56 c -4,0 -8,-4 -8,-8 0,-4 0,-8 0,-8 z"
      sodipodi:nodetypes="csssssc" /></g></svg>

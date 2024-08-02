@@ -1552,7 +1552,7 @@
          id="path2728-1"
          sodipodi:nodetypes="ccccccc" /><path
          style="fill:#76d4fa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 156,65 9,-9 v 4 L 157.97279,67.027212 156,69 h -8 l -4,-4 z"
+         d="m 156,65 9,-9 v 4 L 158,67 156,69 h -8 l -4,-4 z"
          id="path2803-20"
          sodipodi:nodetypes="cccccccc" /><path
          style="fill:#5db6f4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2650,7 +2650,7 @@
          sodipodi:nodetypes="ccccc"
          inkscape:label="Wing Left" /></g><path
        style="display:inline;fill:#a66193;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 290,184.5 -6,6 v 8 l 14,14 4,-4 v -5 l -4,-4 v -7 z"
+       d="m 290,184 -6,6 v 8 l 14,14 4,-4 v -5 l -4,-4 v -7 z"
        id="path2005-9-9-9-8"
        sodipodi:nodetypes="ccccccccc"
        inkscape:label="Wither Hardcore Half Blinking"
@@ -2723,7 +2723,7 @@
          sodipodi:nodetypes="ccccc"
          inkscape:label="Wing Left" /></g><path
        style="display:inline;fill:#aeefbe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 290,184.5 -6,6 v 8 l 14,14 4,-4 v -5 l -4,-4 v -7 z"
+       d="m 290,184 -6,6 v 8 l 14,14 4,-4 v -5 l -4,-4 v -7 z"
        id="path2005-9-9-9-3"
        sodipodi:nodetypes="ccccccccc"
        inkscape:label="Poison Hardcore Full Blinking"
@@ -2796,7 +2796,7 @@
          sodipodi:nodetypes="ccccc"
          inkscape:label="Wing Left" /></g><path
        style="display:inline;fill:#fe9eb5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 290,184.5 -6,6 v 8 l 14,14 4,-4 v -5 l -4,-4 v -7 z"
+       d="m 290,184 -6,6 v 8 l 14,14 4,-4 v -5 l -4,-4 v -7 z"
        id="path2005-9-9-9"
        sodipodi:nodetypes="ccccccccc"
        inkscape:label="Hardcore Half Blinking"
@@ -3207,7 +3207,7 @@
      inkscape:label="Bubble"><path
        id="path11843"
        style="display:inline;opacity:0.849904;fill:url(#linearGradient62395);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 127,100 -8,0.25723 8,5.74277 z m -2,-9 5,4 h 6 v -4 z m -16,9 -5,5 v 3 h 3 l 5,-5 z m -5,-8 h -4 v 4 h 8 z m -2,-12 6,7 v -7 l -6,-6 z m 13,-8 v 6 h 4 v -6 z m 14,4 -8,8 h 6 l 5,-5 z"
+       d="m 127,100 -8,0 8,6 z m -2,-9 5,4 h 6 v -4 z m -16,9 -5,5 v 3 h 3 l 5,-5 z m -5,-8 h -4 v 4 h 8 z m -2,-12 6,7 v -7 l -6,-6 z m 13,-8 v 6 h 4 v -6 z m 14,4 -8,8 h 6 l 5,-5 z"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc"
        inkscape:label="Bursting" /><g
        id="g56922"

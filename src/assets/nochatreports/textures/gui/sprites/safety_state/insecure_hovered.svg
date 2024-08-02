@@ -92,10 +92,10 @@
      d="M 40,16 16,64 h 48 z"
      id="path1"
      inkscape:label="Alert"
-     transform="translate(0,0.03279)" /></g><g
+     transform="translate(0,0)" /></g><g
    id="g8"
    inkscape:label="Exclamation"
-   transform="translate(0,0.03279)"
+   transform="translate(0,0)"
    style="display:inline"><rect
      style="fill:#f8f8f2;fill-rule:evenodd;stroke:none;stroke-width:100;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect8-5"

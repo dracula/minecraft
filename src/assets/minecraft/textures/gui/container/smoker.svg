@@ -536,7 +536,7 @@
          ry="14"
          inkscape:label="Slot" /></g><path
        style="display:inline;fill:#1e1f29;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 64,412 -8,8 v 4 l 4,4 v 8 l -8,-8 v -4 l -8,-8 v 12 l 4,4 v 8 l -4,4 v 12 l 8,8 h 6 v -2 l -6,-6 v -8 l 4,-4 v 8 l 4,4 v -8 l 4,-4 v -4 l 4,-4 v 12 l -2,2 v 6 l 8,-8 V 449.21149 456 l -4,4 v 4 h 6 l 8,-8 v -12 l -4,-4 v -10 l -6,-6 v 12 L 64,426 v -6 l 8,-8 z"
+       d="m 64,412 -8,8 v 4 l 4,4 v 8 l -8,-8 v -4 l -8,-8 v 12 l 4,4 v 8 l -4,4 v 12 l 8,8 h 6 v -2 l -6,-6 v -8 l 4,-4 v 8 l 4,4 v -8 l 4,-4 v -4 l 4,-4 v 12 l -2,2 v 6 l 8,-8 V 449 456 l -4,4 v 4 h 6 l 8,-8 v -12 l -4,-4 v -10 l -6,-6 v 12 L 64,426 v -6 l 8,-8 z"
        id="path2308-2-3-7-2"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccc"
        inkscape:label="Fuel Progress" /></g><g
@@ -549,7 +549,7 @@
        sodipodi:nodetypes="ccccccccccc"
        inkscape:label="Progress Full" /><path
        style="display:inline;fill:url(#linearGradient2);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 544,268 -8,8 v 4 l 4,4 v 8 l -8,-8 v -4 l -8,-8 v 12 l 4,4 v 8 l -4,4 v 12 l 8,8 h 6 v -2 l -6,-6 v -8 l 4,-4 v 8 l 4,4 v -8 l 4,-4 v -4 l 4,-4 v 12 l -2,2 v 6 l 8,-8 V 305.21149 312 l -4,4 v 4 h 6 l 8,-8 v -12 l -4,-4 v -10 l -6,-6 v 12 l -10,-10 v -6 l 8,-8 z"
+       d="m 544,268 -8,8 v 4 l 4,4 v 8 l -8,-8 v -4 l -8,-8 v 12 l 4,4 v 8 l -4,4 v 12 l 8,8 h 6 v -2 l -6,-6 v -8 l 4,-4 v 8 l 4,4 v -8 l 4,-4 v -4 l 4,-4 v 12 l -2,2 v 6 l 8,-8 V 305 312 l -4,4 v 4 h 6 l 8,-8 v -12 l -4,-4 v -10 l -6,-6 v 12 l -10,-10 v -6 l 8,-8 z"
        id="path2308-2-3-7"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccc"
        inkscape:label="Fuel Progress"

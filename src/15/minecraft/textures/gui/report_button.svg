@@ -95,10 +95,10 @@
        inkscape:label="Button Disabled" /><path
        id="path1-3-6"
        style="display:inline;fill:#e4c944;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1468.4806,631.40414 -24,48 h 48 z m -4,14 h 8 v 16 h -8 z m 0,20 h 8 v 8 h -8 z"
+       d="m 1468,631 -24,48 h 48 z m -4,14 h 8 v 16 h -8 z m 0,20 h 8 v 8 h -8 z"
        sodipodi:nodetypes="cccccccccccccc"
        inkscape:label="Icon"
-       transform="translate(-1428.4806,-457.40414)" /></g><g
+       transform="translate(-1428,-457)" /></g><g
      id="g6-1-2"
      inkscape:label="Button Highlighted"
      transform="translate(0,-160)"
@@ -123,10 +123,10 @@
        inkscape:label="Fill" /><path
        id="path1-3"
        style="display:inline;fill:#f1fa8c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1468.4806,551.40414 -24,48 h 48 z m -4,14 h 8 v 16 h -8 z m 0,20 h 8 v 8 h -8 z"
+       d="m 1468,551 -24,48 h 48 z m -4,14 h 8 v 16 h -8 z m 0,20 h 8 v 8 h -8 z"
        sodipodi:nodetypes="cccccccccccccc"
        inkscape:label="Icon"
-       transform="translate(-1428.4806,-297.40414)" /></g><g
+       transform="translate(-1428,-297)" /></g><g
      id="g66"
      inkscape:label="Button"
      transform="translate(0,-240)"
@@ -151,7 +151,7 @@
        inkscape:label="Fill" /><path
        id="path1"
        style="display:inline;fill:#f1fa8c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1468.4806,471.40414 -24,48 h 48 z m -4,14 h 8 v 16 h -8 z m 0,20 h 8 v 8 h -8 z"
+       d="m 1468,471 -24,48 h 48 z m -4,14 h 8 v 16 h -8 z m 0,20 h 8 v 8 h -8 z"
        sodipodi:nodetypes="cccccccccccccc"
        inkscape:label="Icon"
-       transform="translate(-1428.4806,-217.40414)" /></g></svg>
+       transform="translate(-1428,-217)" /></g></svg>

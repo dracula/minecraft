@@ -50,4 +50,4 @@
    id="rect66-5-1"
    style="display:inline;fill:#3a324e;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
    inkscape:label="Crafting Disabled Highlighted"
-   d="M 20,6 C 12.24401,6 6,12.24401 6,20 V 32 H 32 V 6 Z M 36,6 V 32 H 60 V 6 Z M 64,6 V 32 H 90 V 20 C 90,12.24401 83.75599,6 76,6 Z M 6,36 V 60 H 32 V 36 Z m 30,0 V 60 H 60 V 36 Z m 28,0 V 60 H 90 V 36 Z M 6,64 v 12 c 0,7.75599 6.24401,14 14,14 H 32 V 64 Z m 30,0 V 90 H 60 V 64 Z m 28,0 v 26 h 12 c 7.75599,0 14,-6.24401 14,-14 V 64 Z" /></svg>
+   d="M 20,6 C 12,6 6,12 6,20 V 32 H 32 V 6 Z M 36,6 V 32 H 60 V 6 Z M 64,6 V 32 H 90 V 20 C 90,12 84,6 76,6 Z M 6,36 V 60 H 32 V 36 Z m 30,0 V 60 H 60 V 36 Z m 28,0 V 60 H 90 V 36 Z M 6,64 v 12 c 0,8 6,14 14,14 H 32 V 64 Z m 30,0 V 90 H 60 V 64 Z m 28,0 v 26 h 12 c 8,0 14,-6 14,-14 V 64 Z" /></svg>

@@ -67,12 +67,12 @@
      inkscape:label="HUD Slot Selection"
      style="display:inline"
      transform="translate(4e-6,-88)"><path
-       d="m 86,117 v 38 c 0,12 -6.999996,19 -19,19 H 29 c -13,0 -19,-7 -19,-19 v -38 c 0,-12 7,-19 19,-19 h 38 c 12,0 19,7 19,19 z"
+       d="m 86,117 v 38 c 0,12 -7,19 -19,19 H 29 c -13,0 -19,-7 -19,-19 v -38 c 0,-12 7,-19 19,-19 h 38 c 12,0 19,7 19,19 z"
        style="display:inline;fill:url(#linearGradient18675);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3158"
        sodipodi:nodetypes="sssssssss"
        inkscape:label="Selection Outline" /><path
        style="display:inline;fill:#17171b;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.804989"
-       d="m 82,119 -4e-6,34 c -10e-7,11 -6,17 -17.000004,17 h -34 c -11,0 -17.000001,-6 -17,-17 l 4e-6,-34 c 1e-6,-11 6,-17 17,-17 h 34 C 76,102 82.000001,108 82,119 Z"
+       d="m 82,119 -4e-6,34 c -10e-7,11 -6,17 -17,17 h -34 c -11,0 -17,-6 -17,-17 l 4e-6,-34 c 1e-6,-11 6,-17 17,-17 h 34 C 76,102 82,108 82,119 Z"
        id="path3119"
        inkscape:label="Selection Slot" /></g></svg>

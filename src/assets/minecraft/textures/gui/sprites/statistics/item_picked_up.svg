@@ -85,7 +85,7 @@
    transform="translate(-356,-75)"><g
      id="g2-4-6"
      inkscape:label="Dirt"
-     transform="translate(369,78.000001)"
+     transform="translate(369,78)"
      style="display:inline"><rect
        style="fill:url(#linearGradient5-9);stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
        id="rect1-7-6"
@@ -97,7 +97,7 @@
        ry="0"
        transform="rotate(45)" /><path
        style="fill:url(#linearGradient6-6);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 21,15 v 8 L 33,35 45,23 V 17 L 34.000001,27.999999 Z"
+       d="m 21,15 v 8 L 33,35 45,23 V 17 L 34,28 Z"
        id="path1-8-4"
        sodipodi:nodetypes="ccccccc" /></g><g
      id="g13"

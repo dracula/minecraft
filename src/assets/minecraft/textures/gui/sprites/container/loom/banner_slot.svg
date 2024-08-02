@@ -49,7 +49,7 @@
 <g
    id="g2"
    inkscape:label="Banner Icon"
-   transform="translate(-704.0089)"><rect
+   transform="translate(-704)"><rect
      style="display:inline;fill:#1e1f29;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect50-7-0-7-7"
      width="60"
@@ -60,7 +60,7 @@
      ry="14"
      inkscape:label="Slot" /><path
      style="fill:#3a324e;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-     d="M 733.98808,51.972347 H 721.96727 V 7.9549511 h 28.0191 V 51.972347 h -12.02081 v 8.04334 h -3.97748 z M 746.0089,42 746,18 740,12 h -8 l -6,6 v 24 l 6,6 h 8 z"
+     d="M 734,52 H 722 V 8 h 28 V 52 h -12 v 8 h -4 z M 746,42 746,18 740,12 h -8 l -6,6 v 24 l 6,6 h 8 z"
      id="path1"
      inkscape:label="Icon"
      sodipodi:nodetypes="cccccccccccccccccc" /></g></svg>

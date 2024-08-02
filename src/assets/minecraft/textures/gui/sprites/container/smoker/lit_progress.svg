@@ -65,7 +65,7 @@
        visible="true"
        empspacing="4" /></sodipodi:namedview><path
      style="display:inline;fill:url(#linearGradient2);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 32,0 -8,8 v 4 l 4,4 v 8 L 20,16 V 12 L 12,4 v 12 l 4,4 v 8 l -4,4 v 12 l 8,8 h 6 v -2 l -6,-6 v -8 l 4,-4 v 8 l 4,4 v -8 l 4,-4 v -4 l 4,-4 v 12 l -2,2 v 6 l 8,-8 V 37.21149 44 l -4,4 v 4 h 6 l 8,-8 V 32 L 48,28 V 18 L 42,12 V 24 L 32,14 V 8 l 8,-8 z"
+     d="m 32,0 -8,8 v 4 l 4,4 v 8 L 20,16 V 12 L 12,4 v 12 l 4,4 v 8 l -4,4 v 12 l 8,8 h 6 v -2 l -6,-6 v -8 l 4,-4 v 8 l 4,4 v -8 l 4,-4 v -4 l 4,-4 v 12 l -2,2 v 6 l 8,-8 V 37 44 l -4,4 v 4 h 6 l 8,-8 V 32 L 48,28 V 18 L 42,12 V 24 L 32,14 V 8 l 8,-8 z"
      id="path2308-2-3-7"
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccc"
      inkscape:label="Fuel Progress" /></svg>

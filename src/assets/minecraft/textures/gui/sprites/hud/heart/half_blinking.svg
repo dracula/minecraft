@@ -48,7 +48,7 @@
     
 <path
    style="fill:#fe9eb5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="m 10,3.9999997 -6,6 V 18 l 14,14 6,-6 -4,-4 V 17 L 16,13 V 6.9999997 l -3,-3 z"
+   d="m 10,4 -6,6 V 18 l 14,14 6,-6 -4,-4 V 17 L 16,13 V 7 l -3,-3 z"
    id="path2005-1-0-8"
    sodipodi:nodetypes="ccccccccccc"
    inkscape:label="Half Blinking" /></svg>

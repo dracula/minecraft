@@ -75,7 +75,7 @@
          rx="18"
          ry="18"
          inkscape:label="Border" /><path
-         d="m 338,212 c -9.972,0 -18,-8.028 -18,-18 v 18 z"
+         d="m 338,212 c -10,0 -18,-8 -18,-18 v 18 z"
          style="display:inline;fill:#2e3242;fill-rule:evenodd;stroke-width:3.99205;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
          id="path1"
          sodipodi:nodetypes="cccc"

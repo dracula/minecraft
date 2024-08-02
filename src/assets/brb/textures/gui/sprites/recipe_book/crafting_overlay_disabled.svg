@@ -50,4 +50,4 @@
    id="rect66-5-7-8"
    style="display:inline;fill:#17181c;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
    inkscape:label="Crafting Disabled"
-   d="m 19.960656,5.9606557 c -7.75599,0 -14.0000003,6.2440103 -14.0000003,14.0000003 v 12 H 31.960656 V 5.9606557 Z m 16,0 V 31.960656 h 24 V 5.9606557 Z m 28,0 V 31.960656 h 26 v -12 c 0,-7.75599 -6.24401,-14.0000003 -14,-14.0000003 z M 5.9606557,35.960656 v 24 H 31.960656 v -24 z m 30.0000003,0 v 24 h 24 v -24 z m 28,0 v 24 h 26 v -24 z m -58.0000003,28 v 12 c 0,7.75599 6.2440103,14 14.0000003,14 h 12 v -26 z m 30.0000003,0 v 26 h 24 v -26 z m 28,0 v 26 h 12 c 7.75599,0 14,-6.24401 14,-14 v -12 z" /></svg>
+   d="m 20,6 c -8,0 -14,6 -14,14 v 12 H 32 V 6 Z m 16,0 V 32 h 24 V 6 Z m 28,0 V 32 h 26 v -12 c 0,-8 -6,-14 -14,-14 z M 6,36 v 24 H 32 v -24 z m 30,0 v 24 h 24 v -24 z m 28,0 v 24 h 26 v -24 z m -58,28 v 12 c 0,8 6,14 14,14 h 12 v -26 z m 30,0 v 26 h 24 v -26 z m 28,0 v 26 h 12 c 8,0 14,-6 14,-14 v -12 z" /></svg>

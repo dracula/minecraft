@@ -50,12 +50,12 @@
      inkscape:label="Button"
      style="display:inline"
      transform="translate(0,672)"><path
-       d="m 21,86.000006 c -7,0 -11,4 -11,10.999997 V 123 c 0,7 4,11 11,11 h 38 c 7,0 11,-4 11,-11 V 97.000003 C 70,90.000006 66,86.000006 59,86.000006 Z"
+       d="m 21,86 c -7,0 -11,4 -11,11 V 123 c 0,7 4,11 11,11 h 38 c 7,0 11,-4 11,-11 V 97 C 70,90 66,86 59,86 Z"
        style="display:inline;fill:#124749;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1793"
        sodipodi:nodetypes="sssssssss"
        inkscape:label="Selected" /><path
-       d="m 21,10.000003 c -7,0 -11,4 -11,10.999997 v 25.999997 c 0,7 4,11 11,11 h 38 c 7,0 11,-4 11,-11 V 21 C 70,14.000003 66,10.000003 59,10.000003 Z"
+       d="m 21,10 c -7,0 -11,4 -11,11 v 26 c 0,7 4,11 11,11 h 38 c 7,0 11,-4 11,-11 V 21 C 70,14 66,10 59,10 Z"
        style="display:inline;fill:#2e3242;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1793-3"
        sodipodi:nodetypes="sssssssss"

@@ -49,7 +49,7 @@
 <g
    id="g6"
    inkscape:label="Button"
-   transform="translate(-0.03278689,-240)"
+   transform="translate(-0,-240)"
    style="display:inline"><rect
      style="display:inline;fill:#282a36;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect5"
@@ -71,7 +71,7 @@
      inkscape:label="Fill" /></g><g
    id="g8-3"
    inkscape:label="i Icon"
-   transform="matrix(1,0,0,-1,0,80.065577)"
+   transform="matrix(1,0,0,-1,0,80)"
    style="display:inline;fill:#f8f8f2"><rect
      style="fill:#f8f8f2;fill-rule:evenodd;stroke:none;stroke-width:100;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect8-5-2"

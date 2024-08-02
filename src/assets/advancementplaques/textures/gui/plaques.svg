@@ -146,20 +146,20 @@
 <g
    id="g4-9"
    inkscape:label="Goal Unlocked"
-   transform="matrix(0.87001122,0.85108894,-0.85108894,0.87001122,499.42359,-343.71093)"><path
+   transform="matrix(1,1,-1,1,499,-344)"><path
      id="rect4-9"
      style="display:inline;fill:url(#linearGradient5);fill-rule:evenodd;stroke-width:3.99205;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      inkscape:label="Outline"
-     d="m 29.840191,524.99539 45.252099,0.49752 c 9.898891,0.10883 16.891805,7.25721 16.782973,17.15611 l -0.497519,45.25209 c -0.108811,9.89693 -7.257209,16.8918 -17.156105,16.78297 L 28.96954,604.18657 c -9.898891,-0.10883 -16.891796,-7.25721 -16.782966,-17.15611 l 0.497511,-45.2521 c 0.108809,-9.89693 7.257212,-16.8918 17.156106,-16.78297 z"
+     d="m 30,525 45,0 c 10,0 17,7 17,17 l -0,45 c -0,10 -7,17 -17,17 L 29,604 c -10,-0 -17,-7 -17,-17 l 0,-45 c 0,-10 7,-17 17,-17 z"
      sodipodi:nodetypes="sssssssss" /><path
      id="rect50-1"
      style="display:inline;fill:url(#linearGradient6);fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      inkscape:label="Slot"
-     d="m 29.094258,528.52294 46.666227,0.51306 c 7.07064,0.0777 12.664964,5.79644 12.587227,12.86708 l -0.513062,46.66623 c -0.07774,7.07064 -5.796435,12.66496 -12.867079,12.58722 l -46.666227,-0.51306 c -7.070641,-0.0777 -12.664963,-5.79644 -12.587227,-12.86708 l 0.513062,-46.66622 c 0.07735,-7.03505 5.796436,-12.66497 12.867079,-12.58723 z"
+     d="m 29,529 47,1 c 7,0 13,6 13,13 l -1,47 c -0,7 -6,13 -13,13 l -47,-1 c -7,-0 -13,-6 -13,-13 l 1,-47 c 0,-7 6,-13 13,-13 z"
      sodipodi:nodetypes="sssssssss" /></g><g
    id="g9"
    inkscape:label="Challenged Unlocked"
-   transform="matrix(1.2551398,0,0,1.2551398,-131.79779,-387.89489)"><path
+   transform="matrix(1,0,0,1,-132,-388)"><path
      style="display:inline;fill:url(#linearGradient7703);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 120,528 v 21 l -15,15 15,14 v 22 h 21 l 15,15 15,-15 h 21 v -22 l 15,-14 -15,-15 v -21 h -21 l -15,-15 -15,15 z"
      id="path1249"
@@ -179,7 +179,7 @@
      rx="16"
      ry="16"
      inkscape:label="Discription Background"
-     transform="matrix(0.796724,0,0,0.796724,105.00646,309.04517)" /><rect
+     transform="matrix(1,0,0,1,105,309)" /><rect
      style="display:inline;fill:#1e1f29;fill-opacity:0.699393;fill-rule:evenodd;stroke-width:1.59345;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect4-2-1-8"
      width="704.30402"
@@ -191,7 +191,7 @@
      inkscape:label="Discription Background" /></g><g
    id="g4"
    inkscape:label="Advancement Unlocked"
-   transform="matrix(1.4,0,0,1.4,-8.8,-725.6)"
+   transform="matrix(1,0,0,1,-9,-726)"
    style="display:inline"><rect
      style="display:inline;fill:url(#linearGradient4);fill-rule:evenodd;stroke-width:3.99205;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect4"
@@ -220,4 +220,4 @@
      rx="16"
      ry="16"
      inkscape:label="Discription Background"
-     transform="matrix(0.71428571,0,0,0.71428571,6.2857143,518.28571)" /></g></svg>
+     transform="matrix(1,0,0,1,6,518)" /></g></svg>

@@ -49,12 +49,12 @@
 <g
    id="g9"
    inkscape:label="Crafting"
-   transform="translate(-71.999997,-73.999997)"><path
+   transform="translate(-72,-74)"><path
      style="fill:#282a36;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 20.940301,14.686568 v 8.328358 L 32.970152,35.044777 45.000003,23.014926 V 16.537314 L 33.895525,27.641792 Z"
+     d="m 21,15 v 8 L 33,35 45,23 V 17 L 34,28 Z"
      id="path1-77"
      sodipodi:nodetypes="ccccccc"
-     transform="matrix(2.1612903,0,0,2.1612903,38.74193,68.258063)"
+     transform="matrix(2,0,0,2,39,68)"
      inkscape:label="Block Extrude" /><rect
      style="fill:#3a3f63;fill-opacity:1;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect1-1"
@@ -64,7 +64,7 @@
      y="-20.12616"
      rx="0"
      ry="0"
-     transform="matrix(1.528263,1.528263,-1.528263,1.528263,38.74193,68.258063)"
+     transform="matrix(2,2,-2,2,39,68)"
      inkscape:label="Block Top" /><g
      id="g10"
      inkscape:label="Grid"><rect

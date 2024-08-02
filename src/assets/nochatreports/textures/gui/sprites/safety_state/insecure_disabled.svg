@@ -49,7 +49,7 @@
 <g
    id="g3"
    inkscape:label="Button Disabled"
-   transform="translate(0,-0.03278689)"><rect
+   transform="translate(0,-0)"><rect
      style="display:inline;fill:#1e1f29;fill-opacity:0.699393;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect4"
      width="68"
@@ -61,9 +61,9 @@
      inkscape:label="Fill" /></g><g
    id="g2"
    inkscape:label="Alert Icon"
-   transform="translate(0,-0.03278689)"><path
+   transform="translate(0,-0)"><path
      id="path1"
      style="display:inline;fill:#a81b55;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      inkscape:label="Alert"
-     d="M 39.999584 15.999997 L 15.999584 63.999997 L 63.999584 63.999997 L 39.999584 15.999997 z M 36.999584 31.999997 L 42.999584 31.999997 L 42.999584 49.999997 L 36.999584 49.999997 L 36.999584 31.999997 z M 36.999584 53.999997 L 42.999584 53.999997 L 42.999584 57.999997 L 36.999584 57.999997 L 36.999584 53.999997 z "
-     transform="translate(-0.03278689,0.03279)" /></g></svg>
+     d="M 40 16 L 16 64 L 64 64 L 40 16 z M 37 32 L 43 32 L 43 50 L 37 50 L 37 32 z M 37 54 L 43 54 L 43 58 L 37 58 L 37 54 z "
+     transform="translate(-0,0)" /></g></svg>

@@ -49,9 +49,9 @@
 <g
    id="g67"
    inkscape:label="Scroller"
-   transform="translate(-1207,-366.99998)"><g
+   transform="translate(-1207,-367)"><g
      id="g1533-7-3-5"
-     transform="matrix(1.1666651,0,0,1.1666667,-279.75427,23.81957)"
+     transform="matrix(1,0,0,1,-280,24)"
      inkscape:label="Scroller"
      style="display:inline"><rect
        style="display:inline;fill:#1b1b1f;fill-opacity:1;fill-rule:evenodd;stroke:#7c60a3;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
@@ -72,7 +72,7 @@
        ry="20.571428"
        rx="17.142878"
        inkscape:label="Outline"
-       transform="translate(565.8228,289.35388)" /><rect
+       transform="translate(566,289)" /><rect
        style="display:inline;fill:#17181c;fill-rule:evenodd;stroke:#7c60a3;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect4092-5-9"
        width="23.999981"

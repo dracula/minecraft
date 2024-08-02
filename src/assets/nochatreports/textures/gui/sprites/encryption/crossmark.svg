@@ -59,12 +59,12 @@
    id="g2-9"
    inkscape:label="X Icon"><path
      style="display:inline;fill:#a81b55;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 6,8 20,22 5.967213,36 14,44 27.98688,29.980355 41.967213,44 l 4,-4 L 32,26 46,12 42,8 38,4 23.967213,18 10,4 Z"
+     d="M 6,8 20,22 6,36 14,44 28,30 42,44 l 4,-4 L 32,26 46,12 42,8 38,4 24,18 10,4 Z"
      id="path2-6-1"
      inkscape:label="X Shadow"
      sodipodi:nodetypes="cccccccccccccc" /><path
      id="path1-2"
      style="display:inline;fill:#ff5555;stroke:none;stroke-width:1.71429px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 10.032787,4 -4,4 L 20,22 6,36 10,40 24,26 38,40 42,36 28,22 42,7.967213 l -4,-4 L 24,18 Z"
+     d="m 10,4 -4,4 L 20,22 6,36 10,40 24,26 38,40 42,36 28,22 42,8 l -4,-4 L 24,18 Z"
      sodipodi:nodetypes="ccccccccccccc"
      inkscape:label="X Icon" /></g></svg>

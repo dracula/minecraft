@@ -77,7 +77,7 @@
          y="4.34375"
          ry="12"
          rx="12"
-         transform="translate(-712,791.65625)"
+         transform="translate(-712,792)"
          inkscape:label="Slider Outline" /><rect
          style="display:inline;fill:#17181c;fill-rule:evenodd;stroke:#7c60a3;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
          id="rect4092"
@@ -88,7 +88,7 @@
          ry="8.9999981"
          rx="7.96875"
          inkscape:label="Slider Fill"
-         transform="translate(-1277.8228,502.30237)" /></g><g
+         transform="translate(-1278,502)" /></g><g
        id="g9"
        inkscape:label="XP Progress"
        transform="translate(0,20)"><path
@@ -134,12 +134,12 @@
        id="g3"
        inkscape:label="Markdown"><path
          style="fill:#802f2f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.353553;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-         d="M 4.0216697,707.99065 H 36.018251 v 3.97747 H 4.0216697 Z"
+         d="M 4,708 H 36 v 4 H 4 Z"
          id="path1"
          inkscape:label="Drop Shadow"
          sodipodi:nodetypes="ccccc" /><path
          style="fill:#ff5555;fill-opacity:1;fill-rule:evenodd;stroke-width:0.353553;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-         d="M 0.04419417,704.01317 H 32.040775 v 3.97748 H 0.04419417 Z"
+         d="M 0,704 H 32 v 4 H 0 Z"
          id="path2"
          inkscape:label="Strike"
          sodipodi:nodetypes="ccccc" /></g></g><g
@@ -550,8 +550,8 @@
        id="g17"
        inkscape:label="Arrow Slot"
        style="display:inline"
-       transform="translate(-1120.0001,-136)"><path
-         d="m 1486.0001,492 v 24 H 1424 l -26,26 h -14 v -26 h -61.9999 l 10e-5,-24 h 61.9999 v -26 h 14 l 26,26 z"
+       transform="translate(-1120,-136)"><path
+         d="m 1486,492 v 24 H 1424 l -26,26 h -14 v -26 h -62 l 10e-5,-24 h 62 v -26 h 14 l 26,26 z"
          style="display:inline;fill:#2e3242;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="path666-7-1-9"
          sodipodi:nodetypes="ccccccccccccc"
@@ -592,7 +592,7 @@
          ry="14"
          inkscape:label="Slot" /></g></g><g
      id="g48"
-     transform="translate(644.625,-853.875)"
+     transform="translate(645,-854)"
      inkscape:label="Locked Overlay"
      style="display:inline"><rect
        style="opacity:1;fill:#282a36;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"

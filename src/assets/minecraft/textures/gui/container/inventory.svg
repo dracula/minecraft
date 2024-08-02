@@ -68,7 +68,7 @@
        id="rect54-6-4-67-6"
        style="display:none;opacity:0.499505;fill:#17171b;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
        inkscape:label="Beacon Status Edges"
-       d="m 674,664 c -7.75599,0 -14,6.24401 -14,14 v 14 l 28,-28 z m 54,0 28,28 v -14 c 0,-7.75599 -6.24401,-14 -14,-14 z m -68,68 v 14 c 0,7.75599 6.24401,14 14,14 h 14 z m 96,0 -28,28 h 14 c 7.75599,0 14,-6.24401 14,-14 z" /><path
+       d="m 674,664 c -8,0 -14,6 -14,14 v 14 l 28,-28 z m 54,0 28,28 v -14 c 0,-8 -6,-14 -14,-14 z m -68,68 v 14 c 0,8 6,14 14,14 h 14 z m 96,0 -28,28 h 14 c 8,0 14,-6 14,-14 z" /><path
        id="path2"
        style="display:inline;opacity:0.700297;fill:#17171b;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
        inkscape:label="Beacon Status Penta"
@@ -120,7 +120,7 @@
        id="g2"
        inkscape:label="Item Slots"
        style="display:inline"><path
-         d="m 394,332 c -9.972,0 -18,-8.028 -18,-18 v -52 c 0,-9.97199 -8.02801,-18 -18,-18 h -36 c -9.97199,0 -18,-8.02801 -18,-18 V 46 c 0,-9.97199 -8.02801,-18 -18,-18 H 46 c -9.97199,0 -18,8.02801 -18,18 v 572 c 0,9.97199 8.02801,18 18,18 h 612 c 9.97199,0 18,-8.02801 18,-18 V 350 c 0,-9.97199 -8.02801,-18 -18,-18 z"
+         d="m 394,332 c -10,0 -18,-8 -18,-18 v -52 c 0,-10 -8,-18 -18,-18 h -36 c -10,0 -18,-8 -18,-18 V 46 c 0,-10 -8,-18 -18,-18 H 46 c -10,0 -18,8 -18,18 v 572 c 0,10 8,18 18,18 h 612 c 10,0 18,-8 18,-18 V 350 c 0,-10 -8,-18 -18,-18 z"
          style="display:inline;fill:#2e3242;fill-rule:evenodd;stroke-width:3.99205;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
          id="path1"
          sodipodi:nodetypes="ccccccccccccccccc"

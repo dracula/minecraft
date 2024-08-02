@@ -56,7 +56,7 @@
 <g
    id="g6-1"
    inkscape:label="Button"
-   transform="translate(-0.03278689,-240)"
+   transform="translate(-0,-240)"
    style="display:inline"><rect
      style="display:inline;fill:#282a36;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect5-8"
@@ -81,23 +81,23 @@
      id="path25344"
      style="display:inline;fill:#f8f8f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      class="UnoptimicedTransforms"
-     d="m 32.032787,254.03279 -10,10 v 10 l 8,8 v -14 l 6,-6 h 8 l 6,6 v 18 h -6 l -4.038788,-4.02677 -3.961212,4.02677 h -13 l -5,5 0.03279,10.03279 5,5 h 34 l 5,-5 -0.03279,-10.03279 -4,-4 v -23 l -10,-10 z"
+     d="m 32,254 -10,10 v 10 l 8,8 v -14 l 6,-6 h 8 l 6,6 v 18 h -6 l -4,-4 -4,4 h -13 l -5,5 0,10 5,5 h 34 l 5,-5 -0,-10 -4,-4 v -23 l -10,-10 z"
      sodipodi:nodetypes="ccccccccccccccccccccccc"
      inkscape:label="Lock"
-     transform="translate(-0.03278689,-240)" /></g>
+     transform="translate(-0,-240)" /></g>
     
 <g
    id="g1-9"
    inkscape:label="X Icon"
    transform="translate(16,18)"><path
      style="display:inline;fill:#a81b55;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 14,16.032787 36,38 14,60.032787 22,68 43.96717,45.967268 66,68 70,64 66,60.032787 48,42 70,20 l -4,-3.967213 -4,-4 L 39.967213,34 18,12.032787 Z"
+     d="M 14,16 36,38 14,60 22,68 44,46 66,68 70,64 66,60 48,42 70,20 l -4,-4 -4,-4 L 40,34 18,12 Z"
      id="path2-6"
      inkscape:label="X Shadow"
      sodipodi:nodetypes="ccccccccccccccc"
      transform="translate(-16,-18)" /><path
      id="path1-1"
      style="display:inline;fill:#ff5555;stroke:none;stroke-width:1.71429px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 2.032787,-5.967213 -4,4 L 20,20 -1.967213,42.032787 l 4,4 L 24,24 l 22.032787,22.032787 4,-4 L 28,20 50,-2 46,-6 24,16 Z"
+     d="m 2,-6 -4,4 L 20,20 -2,42 l 4,4 L 24,24 l 22,22 4,-4 L 28,20 50,-2 46,-6 24,16 Z"
      sodipodi:nodetypes="ccccccccccccc"
      inkscape:label="X Icon" /></g></svg>

@@ -91,7 +91,7 @@
      transform="translate(-50)"><path
        id="rect2-3-6"
        style="display:inline;fill:url(#linearGradient5);fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-       d="m 66,4 17,4 7,9 v 83 c 0,6.648 -5.352,12 -12,12 H 65 L 58,105 54,16 C 54,9.352 59.352,4 66,4 Z"
+       d="m 66,4 17,4 7,9 v 83 c 0,7 -5,12 -12,12 H 65 L 58,105 54,16 C 54,9 59,4 66,4 Z"
        sodipodi:nodetypes="cccsscccc"
        inkscape:label="Shadow" /><rect
        style="display:inline;fill:url(#linearGradient3-0);fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"

@@ -66,7 +66,7 @@
 <g
    id="g6"
    inkscape:label="Button"
-   transform="translate(0,-240.03279)"
+   transform="translate(0,-240)"
    style="display:inline"><rect
      style="display:inline;fill:#282a36;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect5"
@@ -88,7 +88,7 @@
      inkscape:label="Fill" /></g><g
    id="g2"
    inkscape:label="Missing Icon"
-   transform="translate(0,-0.03278689)"><path
+   transform="translate(0,-0)"><path
      style="fill:url(#linearGradient3);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 40,64 V 40 H 64 V 52 L 52,64 Z"
      id="path2-9"

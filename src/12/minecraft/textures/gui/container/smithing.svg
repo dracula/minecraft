@@ -426,7 +426,7 @@
          inkscape:label="Outline" /></g><g
        id="g3"
        inkscape:label="Icon Slots"><path
-         d="m 1062,568 v 24 h -66 l -26,26 H 956 V 592 H 778 l 0.0339,18 -2.0339,2 h -20 l -2,-2 v -18 h -52 v -24 h 52 v -18 l 2,-2 h 20 l 2,2 v 18 h 178 v -26 h 14 l 26,26 z"
+         d="m 1062,568 v 24 h -66 l -26,26 H 956 V 592 H 778 l 0,18 -2,2 h -20 l -2,-2 v -18 h -52 v -24 h 52 v -18 l 2,-2 h 20 l 2,2 v 18 h 178 v -26 h 14 l 26,26 z"
          style="display:inline;fill:#2e3242;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="path666-7-1"
          sodipodi:nodetypes="ccccccccccccccccccccccccc"
@@ -498,7 +498,7 @@
          ry="14"
          inkscape:label="Slot" /></g></g><g
      id="g48"
-     transform="translate(104.625,-853.875)"
+     transform="translate(105,-854)"
      inkscape:label="Locked Overlay"
      style="display:inline"><rect
        style="opacity:1;fill:#282a36;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"

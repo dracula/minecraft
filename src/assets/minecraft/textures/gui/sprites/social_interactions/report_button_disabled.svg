@@ -64,10 +64,10 @@
      d="M 40,16 16,64 h 48 z"
      id="path1"
      inkscape:label="Triangle"
-     transform="translate(-0.03278689,0.03279)" /></g><g
+     transform="translate(-0,0)" /></g><g
    id="g8"
    inkscape:label="Exclamation Icon"
-   transform="translate(-0.03278689,0.03279)"
+   transform="translate(-0,0)"
    style="fill:#d92f55;display:inline"><rect
      style="fill:#a81b55;fill-rule:evenodd;stroke:none;stroke-width:100;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect8"

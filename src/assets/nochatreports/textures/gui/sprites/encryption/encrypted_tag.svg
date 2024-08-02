@@ -49,7 +49,7 @@
 <path
    id="path3"
    style="fill:#bd93f9;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="M 9,4.0000002 0,13 V 27 L 5,32 8,29 4,25 V 15 l 7,-7 h 14 l 7,7 v 10 l -4,4 3,3 5,-5 V 13 L 27,4.0000002 Z"
+   d="M 9,4 0,13 V 27 L 5,32 8,29 4,25 V 15 l 7,-7 h 14 l 7,7 v 10 l -4,4 3,3 5,-5 V 13 L 27,4 Z"
    inkscape:label="Icon"
    sodipodi:nodetypes="ccccccccccccccccc" /><path
    id="path1"

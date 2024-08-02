@@ -49,7 +49,7 @@
 <g
    id="g12"
    inkscape:label="Button"
-   transform="translate(0,-160.03279)"
+   transform="translate(0,-160)"
    style="display:inline"><rect
      style="display:inline;opacity:1;fill:#282a36;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect11"
@@ -73,10 +73,10 @@
      d="M 40,16 16,64 h 48 z"
      id="path1"
      inkscape:label="Triangle"
-     transform="translate(0,160.03279)" /><g
+     transform="translate(0,160)" /><g
      id="g8"
      inkscape:label="Exclamation"
-     transform="translate(0,160.03279)"><rect
+     transform="translate(0,160)"><rect
        style="fill:#d92f55;fill-rule:evenodd;stroke:none;stroke-width:100;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
        id="rect8"
        width="6"

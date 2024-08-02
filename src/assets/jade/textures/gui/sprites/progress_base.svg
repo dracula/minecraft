@@ -48,7 +48,7 @@
     
 <path
    style="display:inline;fill:#1e1f29;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   d="M 6,26 -2.0000002e-8,32 6,38 h 46 v 24 h 6 L 88,32 58,2 h -6 v 24 z"
+   d="M 6,26 -2e-8,32 6,38 h 46 v 24 h 6 L 88,32 58,2 h -6 v 24 z"
    id="path1019-9-2-3"
    sodipodi:nodetypes="ccccccccccc"
    inkscape:label="Progress Full" /></svg>

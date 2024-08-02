@@ -75,7 +75,7 @@
        inkscape:label="Slot"
        sodipodi:nodetypes="sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss" /><path
        style="display:inline;fill:#1e1f29;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 298,51 v 242 c 0,11 -5.9844,17 -16.95584,17 H 122.95584 C 111.98442,310 106,304 106,293 V 51 c 0,-11 5.98442,-17 16.95584,-17 H 281.04416 C 292.0156,34 298,40 298,51 Z"
+       d="m 298,51 v 242 c 0,11 -6,17 -17,17 H 123 C 112,310 106,304 106,293 V 51 c 0,-11 6,-17 17,-17 H 281 C 292,34 298,40 298,51 Z"
        id="path19954-5-6"
        sodipodi:nodetypes="sssssssss"
        inkscape:label="Player" /></g><g
@@ -89,7 +89,7 @@
        inkscape:label="Normal" /><path
        id="path1435"
        style="display:inline;fill:#3a324e;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 679 666 C 668.00001 666 662 672.00001 662 683 L 662 698 L 694 666 L 679 666 z M 722 666 L 754 698 L 754 683 C 754 672.00001 747.99999 666 737 666 L 722 666 z M 662 726 L 662 741 C 662 751.99999 668.00001 758 679 758 L 694 758 L 662 726 z M 754 726 L 722 758 L 737 758 C 747.99999 758 754 751.99999 754 741 L 754 726 z "
+       d="M 679 666 C 668 666 662 672 662 683 L 662 698 L 694 666 L 679 666 z M 722 666 L 754 698 L 754 683 C 754 672 748 666 737 666 L 722 666 z M 662 726 L 662 741 C 662 752 668 758 679 758 L 694 758 L 662 726 z M 754 726 L 722 758 L 737 758 C 748 758 754 752 754 741 L 754 726 z "
        inkscape:label="Beacon Edges" /><path
        style="display:inline;fill:#17181c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 754,726 -32,32 h -28 l -32,-32 v -28 l 32,-32 h 28 l 32,32 z"

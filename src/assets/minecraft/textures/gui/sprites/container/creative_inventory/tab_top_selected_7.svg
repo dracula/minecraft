@@ -69,12 +69,12 @@
      style="display:inline"
      transform="matrix(0,-1,-1,0,-404,1104)"><path
        style="display:inline;fill:#292936;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 980,-498 h 97 l 25,25 v 34 l -25,25 h -83.99999 l -7,7 v 3 h -6 z"
+       d="m 980,-498 h 97 l 25,25 v 34 l -25,25 h -84 l -7,7 v 3 h -6 z"
        id="path33-2-1"
        sodipodi:nodetypes="cccccccccc"
        inkscape:label="Fill" /><path
        style="color:#000000;fill:url(#linearGradient13);-inkscape-stroke:none"
-       d="m 980,-496.00001 96,10e-6 24,24 v 32 l -24,24 h -83.99999 l -8,8 v 4 h 4 v -2 l 6,-6 H 1078 l 26,-26 v -36 l -26,-26 h -98 z"
+       d="m 980,-496 96,10e-6 24,24 v 32 l -24,24 h -84 l -8,8 v 4 h 4 v -2 l 6,-6 H 1078 l 26,-26 v -36 l -26,-26 h -98 z"
        id="path34-7-3"
        sodipodi:nodetypes="ccccccccccccccccc"
        inkscape:label="Outline" /></g></svg>

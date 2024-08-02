@@ -48,15 +48,15 @@
     
 <g
    id="g1"
-   transform="translate(-0.04419417,-704.01317)"
+   transform="translate(-0,-704)"
    inkscape:label="Markdown"><path
      style="fill:#802f2f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.353553;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-     d="M 4.0216697,707.99065 H 36.018251 v 3.97747 H 4.0216697 Z"
+     d="M 4,708 H 36 v 4 H 4 Z"
      id="path1"
      inkscape:label="Drop Shadow"
      sodipodi:nodetypes="ccccc" /><path
      style="fill:#ff5555;fill-opacity:1;fill-rule:evenodd;stroke-width:0.353553;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-     d="M 0.04419417,704.01317 H 32.040775 v 3.97748 H 0.04419417 Z"
+     d="M 0,704 H 32 v 4 H 0 Z"
      id="path2"
      inkscape:label="Strike"
      sodipodi:nodetypes="ccccc" /></g></svg>

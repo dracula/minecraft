@@ -56,12 +56,12 @@
    inkscape:label="X Icon"
    transform="translate(8,8)"><path
      style="display:inline;fill:#a81b55;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 0,2.032787 20,22 -0.032787,42 8,50 27.98688,29.980355 48,50 52,46 32,26 52,6 48,2 44,-2 23.967213,18 4,-1.967213 Z"
+     d="M 0,2 20,22 -0,42 8,50 28,30 48,50 52,46 32,26 52,6 48,2 44,-2 24,18 4,-2 Z"
      id="path2-6-1"
      inkscape:label="X Shadow"
      sodipodi:nodetypes="cccccccccccccc" /><path
      id="path1-2"
      style="display:inline;fill:#ff5555;stroke:none;stroke-width:1.71429px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 4.032787,-1.967213 -4,4 L 20,22 0,42 l 4,4 20,-20 20.032787,20 4,-4 L 28,22 48,1.967213 l -4,-4 L 24,18 Z"
+     d="m 4,-2 -4,4 L 20,22 0,42 l 4,4 20,-20 20,20 4,-4 L 28,22 48,2 l -4,-4 L 24,18 Z"
      sodipodi:nodetypes="ccccccccccccc"
      inkscape:label="X Icon" /></g></svg>

@@ -86,7 +86,7 @@
      style="display:inline"><path
        id="path2"
        style="fill:url(#linearGradient4);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 5,3 -8,8 v 8 L 9,31 h 15 l 5,-5 V 15 L 17,3 Z M 15.5,9.5 21,15 12,26 9,23 v -7 z"
+       d="m 5,3 -8,8 v 8 L 9,31 h 15 l 5,-5 V 15 L 17,3 Z M 16,10 21,15 12,26 9,23 v -7 z"
        sodipodi:nodetypes="ccccccccccccccc"
        inkscape:label="Shadow" /><path
        id="path1-9"

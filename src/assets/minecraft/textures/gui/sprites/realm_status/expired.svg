@@ -59,10 +59,10 @@
      style="fill:#a81b55"><path
        id="rect2-3"
        style="display:inline;fill:#651241;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;fill-opacity:1"
-       d="M 66,4 C 59.352007,4 54,9.3520066 54,16 v 32 l 4,4 H 90 V 17 L 83,8 Z M 54,68 v 24 l 4,13 7,7 h 13 c 6.647993,0 12,-5.35201 12,-12 V 72 l -4,-4 z"
+       d="M 66,4 C 59,4 54,9 54,16 v 32 l 4,4 H 90 V 17 L 83,8 Z M 54,68 v 24 l 4,13 7,7 h 13 c 7,0 12,-5 12,-12 V 72 l -4,-4 z"
        sodipodi:nodetypes="csccccccccccssccc"
        inkscape:label="Shadow" /><path
        id="rect2-6"
        style="display:inline;fill:#a81b55;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-       d="M 66,4 C 59.352007,4 54,9.3520066 54,16 V 48 H 86 V 16 C 86,9.3520066 80.647993,4 74,4 Z M 54,68 v 28 c 0,6.64799 5.352007,12 12,12 h 8 c 6.647993,0 12,-5.35201 12,-12 V 68 Z"
+       d="M 66,4 C 59,4 54,9 54,16 V 48 H 86 V 16 C 86,9 81,4 74,4 Z M 54,68 v 28 c 0,7 5,12 12,12 h 8 c 7,0 12,-5 12,-12 V 68 Z"
        inkscape:label="Fill" /></g></svg>

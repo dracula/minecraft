@@ -56,7 +56,7 @@
      d="m 808,70 2,-44 24,-1 2,45 z"
      sodipodi:nodetypes="ccccc" /><path
      style="fill:#6272a4;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-     d="M 804,64 V 45 26 l 6,-6 h 24 l 6,6 v 19 19 c 0,6 -8,12 -18,12 -10,0 -18,-6 -18,-12 z m 32,-2 V 44 h -8 v 4 l -4,4 h -4 l -4,-4 v -4 h -8 v 18 c 3.88566,4.280906 7.44885,8.953041 14,10 6.23058,-1.938872 14,-6 14,-10 z M 824,32 h -4 v 16 h 4 z m -8,0 4,-4 v -4 h -8 l -4,4 v 12 h 8 z m 20,-4 -4,-4 h -8 v 4 l 4,4 v 8 h 8 z"
+     d="M 804,64 V 45 26 l 6,-6 h 24 l 6,6 v 19 19 c 0,6 -8,12 -18,12 -10,0 -18,-6 -18,-12 z m 32,-2 V 44 h -8 v 4 l -4,4 h -4 l -4,-4 v -4 h -8 v 18 c 4,4 7,9 14,10 6,-2 14,-6 14,-10 z M 824,32 h -4 v 16 h 4 z m -8,0 4,-4 v -4 h -8 l -4,4 v 12 h 8 z m 20,-4 -4,-4 h -8 v 4 l 4,4 v 8 h 8 z"
      id="path11-5"
      sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccc" /><path
      id="path20-3"
@@ -64,12 +64,12 @@
      d="M 808,62 V 44 h 2 v 16 c 0,6 6,10 12,10 6,0 12,-4 12,-10 V 44 h 2 v 18 c 0,6 -8,10 -14,10 -6,0 -14,-4 -14,-10 z m 0,-35 3,-3 h 9 v 2 h -8 l -2,2 v 12 h -2 z m 26,1 -2,-2 h -8 v -2 h 9 l 3,3 v 13 h -2 z m -14,18 h 4 v 2 h -4 z m 0,-14 h 4 v 2 h -4 z"
      sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc" /><path
      style="fill:#ff5555;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-     d="m 988,102 -4,-4 v -2 h 7.93612 L 994,98 l 0.0312,12 H 988 Z"
+     d="m 988,102 -4,-4 v -2 h 8 L 994,98 l 0,12 H 988 Z"
      id="path55"
      transform="translate(-160,-70)"
      sodipodi:nodetypes="cccccccc" /><path
      style="fill:#df4343;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-     d="M 993.96875,98.029829 991.93612,96 H 984 v -2 h 9 l 3,3 v 13 h -1.96875 z"
+     d="M 994,98 992,96 H 984 v -2 h 9 l 3,3 v 13 h -2 z"
      id="path56"
      transform="translate(-160,-70)"
      sodipodi:nodetypes="ccccccccc" /></g></svg>

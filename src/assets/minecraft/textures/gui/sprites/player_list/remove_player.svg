@@ -60,10 +60,10 @@
        id="path2-5"
        style="fill:#a81b55;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:label="Shadow"
-       d="m 8,3 -3,3 9,9 -9,9 6,6 9,-9 9,9 3,-3 L 22.904297,18.095703 32,9 26,3 17,12 Z"
+       d="m 8,3 -3,3 9,9 -9,9 6,6 9,-9 9,9 3,-3 L 23,18 32,9 26,3 17,12 Z"
        sodipodi:nodetypes="ccccccccccccc" /><path
        id="path1-2-2"
        style="fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 8,3 -3,3 9,9 -9,9 3,3 9,-9 9,9 3,-3 L 19.855468,15.144532 29,6 26,3 17,12 Z"
+       d="m 8,3 -3,3 9,9 -9,9 3,3 9,-9 9,9 3,-3 L 20,15 29,6 26,3 17,12 Z"
        inkscape:label="X"
        sodipodi:nodetypes="ccccccccccccc" /></g></svg>

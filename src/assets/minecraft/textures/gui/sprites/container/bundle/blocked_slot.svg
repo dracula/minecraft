@@ -59,7 +59,7 @@
      rx="14"
      ry="14"
      inkscape:label="Slot" /><path
-     d="M 62.597792,171.86665 C 61,169 59,167 56.153809,165.41216 L 34,188 11.886072,165.39279 C 9,167 7,169 5.3871916,171.89766 L 28,194 5.4110419,216.15151 C 7,219 9,221 11.854585,222.59193 L 34,200 56.139331,222.59489 C 59,221 61,219 62.580215,216.16941 L 40,194 Z"
+     d="M 63,172 C 61,169 59,167 56,165 L 34,188 12,165 C 9,167 7,169 5,172 L 28,194 5,216 C 7,219 9,221 12,223 L 34,200 56,223 C 59,221 61,219 63,216 L 40,194 Z"
      style="display:inline;fill:#953333;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path1-36"
      sodipodi:nodetypes="ccccccccccccc"

@@ -65,12 +65,12 @@
        visible="true"
        empspacing="4" /></sodipodi:namedview><path
      style="display:inline;fill:url(#linearGradient2);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 196,39.999999 V 168 c 0,16 -12,28 -28,28 H 40 C 24,196 12,184 12,168 V 39.999999 c 0,-16 12,-28 28,-28 h 128 c 16,0 28,12 28,28 z"
+     d="M 196,40 V 168 c 0,16 -12,28 -28,28 H 40 C 24,196 12,184 12,168 V 40 c 0,-16 12,-28 28,-28 h 128 c 16,0 28,12 28,28 z"
      id="path24389-0-9-3-5-5-6"
      sodipodi:nodetypes="ccccccccc"
      inkscape:label="Selected Outline" /><path
      style="display:inline;fill:#17181c;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 188,43.999999 V 164 c 0,16 -8,24 -24,24 H 44 C 28,188 20,180 20,164 V 43.999999 c 0,-16 8,-24 24,-24 h 120 c 16,0 24,8 24,24 z"
+     d="M 188,44 V 164 c 0,16 -8,24 -24,24 H 44 C 28,188 20,180 20,164 V 44 c 0,-16 8,-24 24,-24 h 120 c 16,0 24,8 24,24 z"
      id="path24389-0-9-3-5-5-9"
      sodipodi:nodetypes="ccccccccc"
      inkscape:label="Selected Fill" /></svg>

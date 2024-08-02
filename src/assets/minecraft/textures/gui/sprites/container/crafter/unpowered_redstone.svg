@@ -47,7 +47,7 @@
        visible="true"
        empspacing="4" /></sodipodi:namedview><path
      style="display:inline;fill:#1e1f29;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 6.0000001,26 0,32 6.0000001,38 H 32 v 18 h 8 L 64,32 40,8.0000004 H 32 V 26 Z"
+     d="M 6,26 0,32 6,38 H 32 v 18 h 8 L 64,32 40,8 H 32 V 26 Z"
      id="path1019-2-0"
      sodipodi:nodetypes="ccccccccccc"
      inkscape:label="Arrow" /></svg>

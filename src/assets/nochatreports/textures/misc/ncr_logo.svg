@@ -49,7 +49,7 @@
 <g
    id="g66-5"
    inkscape:label="Button Unmute"
-   transform="matrix(6.4,0,0,6.4,0,-1536)"
+   transform="matrix(6,0,0,6,0,-1536)"
    style="display:inline"><rect
      style="display:inline;fill:#282a36;fill-rule:evenodd;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
      id="rect65-3"
@@ -71,7 +71,7 @@
      inkscape:label="Fill" /><path
      id="path28"
      style="display:inline;fill:#f8f8f2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.305003;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-     d="M 101.99209,208.01211 95.99374,202 v -28 l 6,-6 h 36 l 6,6 0.0125,28 -6.01252,6.01211 -20,-0.0121 -12,12 h -4 z m 34.00784,-16.01266 H 103.97461 L 103.99374,198 h 32 z M 135.99374,178 h -32 l 6.00626,6 25.99996,-0.007 z"
+     d="M 102,208 96,202 v -28 l 6,-6 h 36 l 6,6 0,28 -6,6 -20,-0 -12,12 h -4 z m 34,-16 H 104 L 104,198 h 32 z M 136,178 h -32 l 6,6 26,-0 z"
      inkscape:label="Bubble"
      sodipodi:nodetypes="cccccccccccccccccccccc"
      transform="translate(-80,88)" /><path
